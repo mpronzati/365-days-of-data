@@ -19,3 +19,41 @@ The goal is to practice an end-to-end data workflow before moving into finance a
 - Day 5: Power BI dashboard
 - Day 6: Improvements & insights
 - Day 7: Documentation & reflection
+
+## Day 1 – Data Understanding & Cleaning Strategy
+
+### Dataset Overview
+The dataset contains coffee shop transaction records with the following columns:
+
+- **TransactionID**: Unique identifier for each transaction  
+- **Item**: Product purchased  
+- **Quantity**: Number of units purchased  
+- **PricePerUnit**: Price per unit of the item  
+- **TotalSpent**: Total transaction value  
+- **PaymentMethod**: Payment type used (cash, card, etc.)  
+- **Location**: Store location  
+- **TransactionDate**: Date of the transaction  
+
+### Data Quality Issues Identified
+The dataset requires significant cleaning due to:
+- Missing values (NULLs)
+- Invalid values such as `ERROR` and `UNKNOWN`
+- Inconsistent or incomplete transactional information
+
+### Cleaning Strategy
+The following approach will be used to handle missing and invalid values:
+
+- **Item column**:  
+  Missing item names will be inferred using a self-join strategy, identifying items based on matching `PricePerUnit` values across transactions.
+
+- **Quantity, PricePerUnit, TotalSpent**:  
+  Missing values will be recalculated using basic arithmetic relationships:
+  - `TotalSpent = Quantity × PricePerUnit`
+  - `Quantity = TotalSpent / PricePerUnit`
+  - `PricePerUnit = TotalSpent / Quantity`
+
+- **Invalid values (`ERROR`, `UNKNOWN`)**:  
+  These values will be treated as missing data and handled using the same inference or calculation logic where possible.
+
+This strategy ensures data consistency while minimizing unnecessary data loss.
+
