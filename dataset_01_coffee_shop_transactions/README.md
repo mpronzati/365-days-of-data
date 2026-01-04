@@ -2,7 +2,18 @@
 
 ## Overview
 This project focuses on cleaning, transforming, and visualizing coffee shop transaction data.
-The goal is to practice an end-to-end data workflow before moving into finance and banking datasets.
+End-to-end data analytics project using SQL, Python, and Power BI.
+
+## Workflow
+1. Data cleaning and standardization in SQL Server
+2. Data validation and exploratory analysis in SQL
+3. Statistical profiling and outlier analysis in Python
+4. Visualization and reporting in Power BI
+
+## Tools
+- SQL Server
+- Python (pandas, matplotlib)
+- Power BI
 
 ## Questions to Answer
 - How many transactions occur per day and per month?
@@ -14,11 +25,11 @@ The goal is to practice an end-to-end data workflow before moving into finance a
 ## Weekly Plan
 - Day 1: Understand data & define questions
 - Day 2: SQL data cleaning
-- Day 3: Python data cleaning
-- Day 4: Feature engineering
-- Day 5: Power BI dashboard
-- Day 6: Improvements & insights
-- Day 7: Documentation & reflection
+- Day 3: SQL EDA
+- Day 4: Python Data Profiling
+- Day 5: Python EDA
+- Day 6: Power BI Star Schema Definition / Measures
+- Day 7: Data visualization & Answer the questions proposed
 
 ## Day 1 – Data Understanding & Cleaning Strategy
 
