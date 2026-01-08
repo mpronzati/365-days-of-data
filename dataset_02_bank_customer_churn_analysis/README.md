@@ -39,4 +39,5 @@ Key features include:
 ---
 
 ## Project Structure
+The dataset required minimal data cleaning. No missing or invalid values were identified. The preparation phase focused on column standardization, removal of non-analytical identifiers, and validation of numerical ranges before analysis.
 
