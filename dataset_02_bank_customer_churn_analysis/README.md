@@ -38,6 +38,22 @@ Key features include:
 
 ---
 
-## Project Structure
-The dataset required minimal data cleaning. No missing or invalid values were identified. The preparation phase focused on column standardization, removal of non-analytical identifiers, and validation of numerical ranges before analysis.
+## Day 1: Explore document data
+The dataset comes from Kaggle and has 10,000 rows and 12 columns. The dataset required minimal data cleaning. No missing or invalid values were identified. The preparation phase focused on column standardization, removal of non-analytical identifiers, and validation of numerical ranges before analysis.
 
+Columns description:
+- customer_id -> Index Primary Key.
+- credit_score -> risk customer profile, the higher the score, the lower the risk.
+- country -> Where is the customer based?
+- gender -> Male or Female.
+- age -> How old the customer is?
+- tenure -> How long the customer has been using the bank?
+- balance -> Money the customers have in their accounts.
+- products_number -> Number of bank products owned.
+- credit_card -> 1 hence Customer owns a CC, 2 hence Customer doesn't own a CC.
+- active_member -> Is the customer actively using the bank?
+- estimated_salary -> Estimated Annual Income.
+- churn -> 1 churned, 2 retained.
+
+##Day 2: SQL Cleaning
+I added credit risk segmentation during the data preparation phase to ensure consistent definitions across all analyses and visualizations.
