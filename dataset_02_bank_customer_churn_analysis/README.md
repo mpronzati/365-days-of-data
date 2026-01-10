@@ -53,7 +53,7 @@ Columns description:
 - credit_card -> 1 hence Customer owns a CC, 2 hence Customer doesn't own a CC.
 - active_member -> Is the customer actively using the bank?
 - estimated_salary -> Estimated Annual Income.
-- churn -> 1 churned, 2 retained.
+- churn -> 1 churned, 0 retained.
 
 ## Day 2: SQL Cleaning
 The preparation phase focused on column standardization, changing data type, and adding a new column. I added credit risk segmentation during the data preparation phase to ensure consistent definitions across all analyses and visualizations. No deep cleaning was needed.
