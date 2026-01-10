@@ -55,5 +55,13 @@ Columns description:
 - estimated_salary -> Estimated Annual Income.
 - churn -> 1 churned, 2 retained.
 
-##Day 2: SQL Cleaning
-I added credit risk segmentation during the data preparation phase to ensure consistent definitions across all analyses and visualizations.
+## Day 2: SQL Cleaning
+The preparation phase focused on column standardization, changing data type, and adding a new column. I added credit risk segmentation during the data preparation phase to ensure consistent definitions across all analyses and visualizations. No deep cleaning was needed.
+
+The Credit risk segmentation was created during the data preparation phase to provide a stable, reusable customer attribute for analysis, visualization, and to avoid repeating logic in DAX. The levels are:
+
+-High Risk (< 580): Indicates poor creditworthiness and higher default risk
+-Medium Risk (580–669): Represents fair credit profiles with moderate risk
+-Low Risk (≥ 670): Reflects good to excellent credit profiles and lower financial risk
+
+## Day 3: SQL EDA
