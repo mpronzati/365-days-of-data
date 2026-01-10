@@ -64,4 +64,5 @@ The Credit risk segmentation was created during the data preparation phase to pr
 -Medium Risk (580–669): Represents fair credit profiles with moderate risk
 -Low Risk (≥ 670): Reflects good to excellent credit profiles and lower financial risk
 
-## Day 3: SQL EDA
+## Day 3: SQL Exploratory Data Analysis (EDA)
+Explore customer demographics, financial behavior, engagement, and churn patterns to identify key drivers of customer attrition and inform dashboard design.
