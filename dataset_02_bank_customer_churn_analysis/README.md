@@ -66,3 +66,17 @@ The Credit risk segmentation was created during the data preparation phase to pr
 
 ## Day 3: SQL Exploratory Data Analysis (EDA)
 Explore customer demographics, financial behavior, engagement, and churn patterns to identify key drivers of customer attrition and inform dashboard design.
+
+## Day 4: Python Data Profiling & Validation
+On this day, Python was used not for additional cleaning, but to validate the quality of the dataset after completing the SQL cleaning process.
+
+Key steps included:
+-Verifying data types and missing values to confirm no further cleaning was required
+-Generating descriptive statistics for numerical variables (e.g. balance, credit score, estimated salary)
+-Performing basic outlier detection using statistical summaries and visual inspections (boxplots and distributions)
+-Comparing distributions between churned and non-churned customers
+
+Outcome:
+No significant data quality issues or extreme outliers were detected. The dataset was confirmed to be clean, consistent, and suitable for downstream analysis and visualization in Power BI.
+
+This step ensured confidence that insights derived from SQL and Power BI were not impacted by hidden data quality problems.
