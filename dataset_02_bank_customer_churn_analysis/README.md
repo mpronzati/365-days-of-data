@@ -79,4 +79,4 @@ Key steps included:
 Outcome:
 No significant data quality issues or extreme outliers were detected. The dataset was confirmed to be clean, consistent, and suitable for downstream analysis and visualization in Power BI.
 
-Using the IQR method, 10 low-end outliers were detected in the credit score distribution (approximately 350–380). These values were retained, as they fall within a realistic credit score range and may represent genuinely high-risk customers.
+Using the IQR method, about 15 low-end outliers were detected in the credit score distribution (approximately 350–380). These values were retained, as they fall within a realistic credit score range and may represent genuinely high-risk customers.
