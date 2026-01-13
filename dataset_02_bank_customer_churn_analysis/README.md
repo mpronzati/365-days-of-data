@@ -80,3 +80,38 @@ Outcome:
 No significant data quality issues or extreme outliers were detected. The dataset was confirmed to be clean, consistent, and suitable for downstream analysis and visualization in Power BI.
 
 Using the IQR method, about 15 low-end outliers were detected in the credit score distribution (approximately 350–380). These values were retained, as they fall within a realistic credit score range and may represent genuinely high-risk customers.
+
+## Day 5: Python
+No further transformations were applied, confirming that the SQL-cleaned dataset was suitable for analysis and visualization.
+
+## Day 6: Power BI Data Modeling & Dashboard Development
+Data Model
+A star schema approach was used, centered around a customer fact table and multiple dimension tables to enable flexible slicing and segmentation.
+
+Dimension tables created:
+- Country
+- Gender
+- Credit Risk Segment (High / Medium / Low)
+- Active Member Status
+
+(Binary indicators such as churn and credit card ownership were kept in the fact table, as they represent analytical outcomes rather than descriptive dimensions.)
+
+Measures Created:
+
+- Active Customers
+- Total Customers
+- Churned Customers
+- Churn Rate (%)
+- Average Balance
+- Average Credit Score
+- Customer Distribution by Segment
+- Average balance of churned customers
+- Average salary of churned customers
+- Churn contribution (%)
+- Churn rate - Active members
+- Churn rate - Inactive members
+- Churned balance
+- Customers (%)
+- High risk churn rate (%)
+- High-risk customers
+- Retention rate (%)
