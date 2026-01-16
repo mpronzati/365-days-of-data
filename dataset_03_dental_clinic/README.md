@@ -19,11 +19,20 @@ On Day 1, the focus was on understanding the raw patient visit dataset and prepa
 - **Treatment Cost** – Cost of the treatment  
 - **X-Ray Cost** – Cost of the X-ray  
 - **OPD Cost** – Outpatient department charges  
-- **Lab Charges** – Laboratory charges  
+- **Lab Charges** – Laboratory charges
 - **Discount** – Discount applied  
 - **Total Paid** – Amount paid by the patient  
 - **Due** – Outstanding balance  
 - **Profit** – Profit from the visit  
 - **Payment Method** – Method of payment  
-- **Visit Month** – Month of the visit  
+- **Visit Month** – Month of the visit
+
+## Day 2: SQL Cleaning
+### Cleaning stages
+- Remove Duplicates -> No duplicates found.
+- Standarize the data -> minimal intervention to standarize data.
+- Null Values or Blank -> No Null or blank values found.
+- Remove any columns -> Address and treatment columns removed.
+- Data types -> All columns' data types have changed to improve data quality.
+
 
