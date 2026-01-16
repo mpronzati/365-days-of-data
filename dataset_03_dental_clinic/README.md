@@ -27,6 +27,13 @@ On Day 1, the focus was on understanding the raw patient visit dataset and prepa
 - **Payment Method** – Method of payment  
 - **Visit Month** – Month of the visit
 
+### Business Questions:
+1. How is clinic revenue and profit trending over time?
+2. Which treatments and treatment types are the most profitable?
+3. How do patient types impact revenue and clinic performance?
+4. What is the impact of X-Ray usage and lab charges on profitability?
+5. Which payment methods are associated with higher outstanding dues?
+
 ## Day 2: SQL Cleaning
 ### Cleaning stages
 - Remove Duplicates -> No duplicates found.
