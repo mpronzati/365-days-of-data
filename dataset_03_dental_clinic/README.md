@@ -39,7 +39,7 @@ On Day 1, the focus was on understanding the raw patient visit dataset and prepa
 - Remove Duplicates -> No duplicates found.
 - Standarize the data -> minimal intervention to standarize data.
 - Null Values or Blank -> No Null or blank values found.
-- Remove any columns -> Address and treatment columns removed.
+- Remove any columns -> Address, visit month, and treatment columns removed.
 - Data types -> All columns' data types have changed to improve data quality.
 
 
