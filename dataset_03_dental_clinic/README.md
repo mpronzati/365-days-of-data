@@ -6,7 +6,7 @@ On Day 1, the focus was on understanding the raw patient visit dataset and prepa
 
 - **Patient ID** – Unique identifier for each patient  
 - **Patient Name** – Name of the patient  
-- **Gender** – Gender of the patient  
+- **Gender** – Gender of the patient
 - **Age** – Age of the patient  
 - **Visit Date** – Date of the clinic visit  
 - **Address** – Patient address  
@@ -42,4 +42,12 @@ On Day 1, the focus was on understanding the raw patient visit dataset and prepa
 - Remove any columns -> Address, visit month, and treatment columns removed.
 - Data types -> All columns' data types have changed to improve data quality.
 
-
+## Day 3: Exploratory Data Analysis (EDA) – Key Insights
+The exploratory analysis revealed several important patterns in clinic operations and performance:
+- The first visit patients show the most profit across different patient types.
+- Dr Kajal is the dentist who accumulates more profit with 2,807.47 vs 583.46 profit per visit per dentist.
+- There are 24 patients with outstanding balances. The maximum is $9201.00, the minimum is $114.00, and the average across those 24 is $2615.88. The total due is $62,781.
+- Ranking top 3 of most total paid treeatment types are (1) Implants (2) Braces (OPD + X-ray).
+- RCT, Braces, Implants, and Crowns have the most above-average profit per visit.
+- In total, a discount of $48,239.20 has been given to patients.
+- December appears to be 4 times within the top 10 ranking as the most profitable days.
