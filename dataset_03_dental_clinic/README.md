@@ -51,3 +51,6 @@ The exploratory analysis revealed several important patterns in clinic operation
 - RCT, Braces, Implants, and Crowns have the most above-average profit per visit.
 - In total, a discount of $48,239.20 has been given to patients.
 - December appears to be 4 times within the top 10 ranking as the most profitable days.
+
+## Day 4 & 5: Python
+Outliers Detection
