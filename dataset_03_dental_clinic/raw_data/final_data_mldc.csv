@@ -1,0 +1,898 @@
+Patient ID,Patient Name,Gender,Age,Visit Date,Address,Consulted By,Treatment,Dental Camp,X-Ray Done,Patient Type,Treatment Type,Treatment Cost,X-Ray Cost,OPD Cost,Lab Charges,Discount,Total Paid,Due,Profit,Payment Method,Visit Month
+MLPT00001,Ngozi Okoro,Female,54,02-01-2023,Janakpuri,Dr. Kajal,Cleaning,No,No,First Visit,Cleaning,411,0,0,0,0,411,0,411,Online Transfer,2023-01
+MLPT00002,Chinedu Eze,Male,73,02-01-2023,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-01
+MLPT00003,Fatima Bello,Female,57,03-01-2023,Vikas Puri,Dr. Karan,Filling,No,No,First Visit,Filling,1068,0,0,0,0,1068,0,1068,Cash,2023-01
+MLPT00004,Emeka Nwafor,Male,73,03-01-2023,Vikas Puri,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,80,120,0,120,Card,2023-01
+MLPT00005,Adewale Adeyemi,Male,16,03-01-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-01
+MLPT00006,Jagdish Prasad,Male,57,04-01-2023,Paschim Vihar,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1602,0,0,0,0,1602,0,1602,Cash,2023-01
+MLPT00007,Aisha Khan,Female,67,04-01-2023,Tilak Nagar,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1653,0,0,0,0,1653,0,1653,UPI,2023-01
+MLPT00008,Raghav Singh,Male,67,05-01-2023,Hari Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-01
+MLPT00009,Naina Gupta,Female,13,05-01-2023,Paschim Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-01
+MLPT00010,Poonam Devi,Female,30,06-01-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2023-01
+MLPT00011,Kajal Singh,Female,80,06-01-2023,Tilak Nagar,Dr. Karan,Extraction,No,Yes,Walk-in,Extraction,533,0,0,0,200,333,0,333,UPI,2023-01
+MLPT00012,Gia Patel,Female,73,07-01-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,Cash,2023-01
+MLPT00013,Kajal Singh,Female,53,07-01-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-01
+MLPT00014,Manoj Kumar,Male,65,09-01-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2023-01
+MLPT00015,Misha Sharma,Female,36,11-01-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-01
+MLPT00016,Ishaan Chauhan,Male,43,11-01-2023,Vikas Puri,Dr. Kajal,Implants,No,Yes,First Visit,Implants,26320,0,0,8930,0,26320,0,17390,UPI,2023-01
+MLPT00017,Aarav Sharma,Male,48,11-01-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,50,300,0,300,UPI,2023-01
+MLPT00018,Diya Sharma,Female,59,12-01-2023,Vikas Puri,Dr. Kajal,Cleaning,No,Yes,Referral,Cleaning,413,0,0,0,0,413,0,413,Cash,2023-01
+MLPT00019,Rishi Yadav,Male,62,12-01-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Online Transfer,2023-01
+MLPT00020,Uday Singh,Male,73,13-01-2023,Chander Vihar,Dr. Kajal,Braces,No,No,First Visit,Braces,16753,0,0,3780,1500,15253,0,11473,Online Transfer,2023-01
+MLPT00021,Ronit Sharma,Male,68,13-01-2023,Punjabi Bagh,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Card,2023-01
+MLPT00022,Suhani Yadav,Female,47,14-01-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,100,250,0,250,Card,2023-01
+MLPT00023,Suhani Yadav,Female,67,14-01-2023,Chander Vihar,Dr. Karan,Cleaning,No,No,First Visit,Cleaning,662,0,0,0,264.8,397.2,0,397.2,Card,2023-01
+MLPT00024,Anaya Gupta,Female,45,14-01-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-01
+MLPT00025,Kabir Singh,Male,23,15-01-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-01
+MLPT00026,Arnav Gupta,Male,72,15-01-2023,Uttam Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-01
+MLPT00027,Vanya Gupta,Female,70,16-01-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-01
+MLPT00028,Pranav Kumar,Male,47,17-01-2023,Chander Vihar,Dr. Kajal,RCT,No,No,First Visit,RCT,3658,0,0,0,0,3658,0,3658,Cash,2023-01
+MLPT00029,Uma Sharma,Female,35,17-01-2023,Hari Nagar,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,505,0,0,0,0,505,0,505,Online Transfer,2023-01
+MLPT00030,Riya Kumar,Female,49,18-01-2023,Tilak Nagar,Dr. Karan,Filling,No,Yes,First Visit,Filling,1035,0,0,0,414,621,0,621,UPI,2023-01
+MLPT00031,Siya Verma,Female,55,19-01-2023,Janakpuri,Dr. Karan,Filling,No,No,First Visit,Filling,1048,0,0,0,0,1048,0,1048,UPI,2023-01
+MLPT00032,Vivaan Sharma,Male,79,19-01-2023,Paschim Vihar,Dr. Karan,Extraction,No,No,Walk-in,Extraction,949,0,0,0,0,949,0,949,Card,2023-01
+MLPT00033,Vanya Gupta,Female,45,20-01-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-01
+MLPT00034,Hitesh Gupta,Male,67,21-01-2023,Uttam Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-01
+MLPT00035,Jia Verma,Female,72,23-01-2023,Chander Vihar,Dr. Kajal,Braces,No,Yes,First Visit,Braces,14477,0,0,4260,0,14477,0,10217,UPI,2023-01
+MLPT00036,Harsh Malik,Male,60,23-01-2023,Rajouri Garden,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-01
+MLPT00037,Diya Sharma,Female,22,25-01-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-01
+MLPT00038,Gia Patel,Female,66,25-01-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-01
+MLPT00039,Saisha Singh,Female,13,26-01-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-01
+MLPT00040,Arnav Gupta,Male,54,26-01-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-01
+MLPT00041,Zeeshan Khan,Male,54,27-01-2023,Vikas Puri,Dr. Kajal,Implants,No,Yes,Walk-in,Implants,27757,0,0,7170,1500,26257,0,19087,UPI,2023-01
+MLPT00042,Vandana Gupta,Female,46,27-01-2023,Tilak Nagar,Dr. Karan,Crown,No,Yes,Walk-in,Crown,2455,0,0,860,0,2455,0,1595,Cash,2023-01
+MLPT00043,Uma Sharma,Female,6,27-01-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2023-01
+MLPT00044,Avani Yadav,Female,24,28-01-2023,Vikas Puri,Dr. Kajal,Braces,No,Yes,First Visit,Braces,19443,0,0,5170,300,19143,0,13973,UPI,2023-01
+MLPT00045,Lata Sharma,Female,72,28-01-2023,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-01
+MLPT00046,Harsh Malik,Male,76,30-01-2023,Vikas Puri,Dr. Kajal,Braces,No,Yes,Walk-in,Braces,13112,0,0,2880,0,13112,0,10232,UPI,2023-01
+MLPT00047,Anaya Gupta,Female,20,30-01-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2023-01
+MLPT00048,Bhavya Jain,Female,53,31-01-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-01
+MLPT00049,Urvi Sharma,Female,64,31-01-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-01
+MLPT00050,Kiara Jain,Female,6,01-02-2023,Tilak Nagar,Dr. Kajal,Braces,No,Yes,Walk-in,Braces,12112,0,0,3320,0,12112,0,8792,UPI,2023-02
+MLPT00051,Hitesh Gupta,Male,45,02-02-2023,Tilak Nagar,Dr. Kajal,Implants,No,Yes,First Visit,Implants,27115,0,0,9160,0,27115,0,17955,UPI,2023-02
+MLPT00052,Poonam Devi,Female,5,02-02-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-02
+MLPT00053,Pranav Kumar,Male,33,02-02-2023,Vikas Puri,Dr. Karan,Crown,No,No,First Visit,Crown,3300,0,0,890,0,3300,0,2410,UPI,2023-02
+MLPT00054,Nikita Sharma,Female,54,03-02-2023,Fateh Nagar,Dr. Karan,Cleaning,No,Yes,Referral,Cleaning,689,0,0,0,0,689,0,689,UPI,2023-02
+MLPT00055,Aarav Sharma,Male,72,03-02-2023,Hari Nagar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-02
+MLPT00056,Shalini Jain,Female,27,04-02-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-02
+MLPT00057,Aditi Sharma,Female,46,04-02-2023,Chander Vihar,Dr. Kajal,Cleaning,No,No,First Visit,Cleaning,417,0,0,0,0,417,0,417,Cash,2023-02
+MLPT00058,Bhavya Jain,Female,68,07-02-2023,Rajouri Garden,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,555,0,0,0,0,555,0,555,UPI,2023-02
+MLPT00059,Misha Sharma,Female,62,07-02-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2023-02
+MLPT00060,Akshat Kumar,Male,45,08-02-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-02
+MLPT00061,Ronit Sharma,Male,52,08-02-2023,Uttam Nagar,Dr. Kajal,Braces,No,Yes,First Visit,Braces,13305,0,0,2120,1500,11805,0,9685,UPI,2023-02
+MLPT00062,Megha Gupta,Female,23,08-02-2023,Vikas Puri,Dr. Kajal,Cleaning,No,No,First Visit,Cleaning,492,0,0,0,0,492,0,492,Cash,2023-02
+MLPT00063,Aradhya Verma,Female,41,09-02-2023,Vikas Puri,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,699,0,0,0,279.6,419.4,0,419.4,UPI,2023-02
+MLPT00064,Kishan Lal,Male,46,10-02-2023,Tilak Nagar,Dr. Kajal,Braces,No,No,First Visit,Braces,17062,0,0,4460,0,17062,0,12602,Card,2023-02
+MLPT00065,Sahil Gupta,Male,16,10-02-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-02
+MLPT00066,Ayush Verma,Male,14,13-02-2023,Tilak Nagar,Dr. Kajal,Implants,No,No,First Visit,Implants,27028,0,0,7950,50,26978,0,19028,Cash,2023-02
+MLPT00067,Manoj Kumar,Male,16,15-02-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-02
+MLPT00068,Lata Sharma,Female,55,15-02-2023,Chander Vihar,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1439,0,0,0,0,1439,0,1439,Cash,2023-02
+MLPT00069,Manav Jain,Male,37,16-02-2023,Tilak Nagar,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,844,0,0,0,0,844,0,844,Cash,2023-02
+MLPT00070,Anika Patel,Female,32,16-02-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-02
+MLPT00071,Manav Jain,Male,52,17-02-2023,Chander Vihar,Dr. Kajal,Implants,No,Yes,First Visit,Implants,22187,0,0,6720,0,18471,3716,11751,Card,2023-02
+MLPT00072,Bharat Singh,Male,69,17-02-2023,Chander Vihar,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,UPI,2023-02
+MLPT00073,Urvi Sharma,Female,57,17-02-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-02
+MLPT00074,Dinesh Verma,Male,59,18-02-2023,Vikas Puri,Dr. Kajal,Bleaching,No,Yes,Walk-in,Bleaching,1781,0,0,0,0,1781,0,1781,UPI,2023-02
+MLPT00075,Omkar Singh,Male,43,20-02-2023,Chander Vihar,Dr. Kajal,RCT,No,Yes,First Visit,RCT,2960,0,0,0,0,2960,0,2960,Card,2023-02
+MLPT00076,Jia Verma,Female,9,20-02-2023,Tilak Nagar,Dr. Kajal,Bleaching,No,No,Walk-in,Bleaching,1535,0,0,0,0,1535,0,1535,UPI,2023-02
+MLPT00077,Tanay Kumar,Male,59,21-02-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-02
+MLPT00078,Ayush Verma,Male,60,22-02-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-02
+MLPT00079,Kishan Lal,Male,40,22-02-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-02
+MLPT00080,Poonam Devi,Female,27,23-02-2023,Tilak Nagar,Dr. Kajal,RCT,No,Yes,First Visit,RCT,2998,0,0,0,0,2998,0,2998,UPI,2023-02
+MLPT00081,Shalini Jain,Female,74,23-02-2023,Tilak Nagar,Dr. Karan,Filling,No,Yes,First Visit,Filling,814,0,0,0,0,814,0,814,UPI,2023-02
+MLPT00082,Megha Gupta,Female,14,24-02-2023,Chander Vihar,Dr. Kajal,OPD,No,No,Walk-in,OPD,0,0,200,0,50,150,0,150,UPI,2023-02
+MLPT00083,Ritu Singh,Female,70,24-02-2023,Rajouri Garden,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-02
+MLPT00084,Gagan Bansal,Male,27,25-02-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-02
+MLPT00085,Raghav Singh,Male,47,27-02-2023,Vikas Puri,Dr. Karan,Cleaning,No,Yes,Walk-in,Cleaning,641,0,0,0,0,641,0,641,Cash,2023-02
+MLPT00086,Aarav Sharma,Male,32,28-02-2023,Tilak Nagar,Dr. Kajal,Cleaning,No,No,Referral,Cleaning,526,0,0,0,0,526,0,526,UPI,2023-02
+MLPT00087,Megha Gupta,Female,8,28-02-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-02
+MLPT00088,Eesha Gupta,Female,10,01-03-2023,Vikas Puri,Dr. Kajal,Bleaching,No,No,First Visit,Bleaching,1779,0,0,0,711.6,1067.4,0,1067.4,Card,2023-03
+MLPT00089,Gia Patel,Female,66,01-03-2023,Vikas Puri,Dr. Kajal,RCT,No,Yes,First Visit,RCT,3433,0,0,0,1000,2433,0,2433,UPI,2023-03
+MLPT00090,Ishaan Chauhan,Male,78,02-03-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-03
+MLPT00091,Narendra Pal,Male,47,04-03-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-03
+MLPT00092,Avani Yadav,Female,8,06-03-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-03
+MLPT00093,Manav Jain,Male,55,08-03-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,80,120,0,120,UPI,2023-03
+MLPT00094,Aradhya Verma,Female,80,09-03-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-03
+MLPT00095,Eesha Gupta,Female,5,09-03-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2023-03
+MLPT00096,Charu Devi,Female,64,11-03-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-03
+MLPT00097,Nikita Sharma,Female,53,12-03-2023,Kirti Nagar,Dr. Kajal,Cleaning,No,Yes,Walk-in,Cleaning,644,0,0,0,0,644,0,644,UPI,2023-03
+MLPT00098,Gagan Bansal,Male,20,13-03-2023,Rajouri Garden,Dr. Karan,Extraction,No,Yes,Referral,Extraction,592,0,0,0,0,592,0,592,Card,2023-03
+MLPT00099,Kajal Singh,Female,28,13-03-2023,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-03
+MLPT00100,Akshat Kumar,Male,13,14-03-2023,Rajouri Garden,Dr. Karan,Crown,No,Yes,First Visit,Crown,2655,0,0,950,0,2655,0,1705,UPI,2023-03
+MLPT00101,Vivaan Sharma,Male,50,14-03-2023,Janakpuri,Dr. Kajal,Bleaching,No,No,First Visit,Bleaching,1460,0,0,0,0,1248,212,1248,UPI,2023-03
+MLPT00102,Dinesh Verma,Male,46,14-03-2023,Vikas Puri,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,694,0,0,0,0,694,0,694,Cash,2023-03
+MLPT00103,Arnav Gupta,Male,66,15-03-2023,Vikas Puri,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1387,0,0,0,0,879,508,879,UPI,2023-03
+MLPT00104,Uday Singh,Male,72,16-03-2023,Vikas Puri,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Cash,2023-03
+MLPT00105,Bhavya Jain,Female,51,21-03-2023,Shivaji Enclave,Dr. Karan,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,Card,2023-03
+MLPT00106,Avani Yadav,Female,13,21-03-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-03
+MLPT00107,Chetan Sharma,Male,59,21-03-2023,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-03
+MLPT00108,Megha Gupta,Female,56,22-03-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-03
+MLPT00109,Ishaan Chauhan,Male,6,22-03-2023,Subhash Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2023-03
+MLPT00110,Parth Patel,Male,75,23-03-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-03
+MLPT00111,Akshara Singh,Female,57,25-03-2023,Tilak Nagar,Dr. Karan,Cleaning,No,No,First Visit,Cleaning,512,0,0,0,0,512,0,512,Online Transfer,2023-03
+MLPT00112,Uday Singh,Male,10,25-03-2023,Tilak Nagar,Dr. Kajal,Braces,No,No,First Visit,Braces,12170,0,0,3510,750,8645,2775,5135,Cash,2023-03
+MLPT00113,Lakshay Sharma,Male,42,27-03-2023,Punjabi Bagh,Dr. Karan,Crown,No,No,First Visit,Crown,2186,0,0,740,0,2186,0,1446,UPI,2023-03
+MLPT00114,Diya Sharma,Female,29,27-03-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-03
+MLPT00115,Reyansh Verma,Male,26,27-03-2023,Rajouri Garden,Dr. Karan,Filling,No,No,First Visit,Filling,955,0,0,0,0,955,0,955,Cash,2023-03
+MLPT00116,Vandana Gupta,Female,62,29-03-2023,Tilak Nagar,Dr. Kajal,RCT,No,No,First Visit,RCT,2997,0,0,0,500,2497,0,2497,Card,2023-03
+MLPT00117,Gagan Bansal,Male,21,29-03-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-03
+MLPT00118,Yash Jain,Male,19,30-03-2023,Janakpuri,Dr. Kajal,Implants,No,Yes,Walk-in,Implants,19985,0,0,4090,0,19985,0,15895,UPI,2023-03
+MLPT00119,Parth Patel,Male,62,30-03-2023,Janakpuri,Dr. Kajal,Implants,No,Yes,First Visit,Implants,24038,0,0,6510,0,24038,0,17528,Cash,2023-03
+MLPT00120,Aditi Sharma,Female,6,31-03-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Online Transfer,2023-03
+MLPT00121,Om Prakash,Male,27,31-03-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-03
+MLPT00122,Ritu Singh,Female,67,01-04-2023,Paschim Vihar,Dr. Karan,Extraction,No,No,Referral,Extraction,991,0,0,0,100,891,0,891,Card,2023-04
+MLPT00123,Girish Yadav,Male,35,01-04-2023,Tilak Nagar,Dr. Kajal,Braces,No,No,First Visit,Braces,12102,0,0,3240,300,11802,0,8562,UPI,2023-04
+MLPT00124,Heena Kumari,Female,69,03-04-2023,Chander Vihar,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,800,0,0,0,0,800,0,800,UPI,2023-04
+MLPT00125,Naina Gupta,Female,58,03-04-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-04
+MLPT00126,Vivaan Sharma,Male,34,03-04-2023,Uttam Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-04
+MLPT00127,Vanya Gupta,Female,50,04-04-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-04
+MLPT00128,Aarav Sharma,Male,62,04-04-2023,Vikas Puri,Dr. Kajal,Cleaning,No,No,First Visit,Cleaning,446,0,0,0,178.4,267.6,0,267.6,Online Transfer,2023-04
+MLPT00129,Lata Sharma,Female,5,05-04-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-04
+MLPT00130,Harsh Malik,Male,11,06-04-2023,Tilak Nagar,Dr. Karan,OPD,No,No,Walk-in,OPD,0,0,200,0,80,120,0,120,Card,2023-04
+MLPT00131,Sandeep Gupta,Male,41,06-04-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-04
+MLPT00132,Kaira Yadav,Female,56,07-04-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-04
+MLPT00133,Saisha Singh,Female,62,08-04-2023,Vikas Puri,Dr. Kajal,Implants,No,Yes,First Visit,Implants,21752,0,0,5990,0,21752,0,15762,UPI,2023-04
+MLPT00134,Dinesh Verma,Male,23,10-04-2023,Tilak Nagar,Dr. Kajal,Implants,No,Yes,First Visit,Implants,21926,0,0,7050,0,21926,0,14876,UPI,2023-04
+MLPT00135,Avani Yadav,Female,30,10-04-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2023-04
+MLPT00136,Parth Patel,Male,79,11-04-2023,Vikas Puri,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-04
+MLPT00137,Zeeshan Khan,Male,39,12-04-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-04
+MLPT00138,Siya Verma,Female,45,12-04-2023,Tilak Nagar,Dr. Kajal,Braces,No,Yes,First Visit,Braces,15636,0,0,3200,0,15636,0,12436,UPI,2023-04
+MLPT00139,Sakshi Yadav,Female,22,13-04-2023,Tilak Nagar,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,687,0,0,0,200,487,0,487,Card,2023-04
+MLPT00140,Om Prakash,Male,40,13-04-2023,Chander Vihar,Dr. Kajal,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,UPI,2023-04
+MLPT00141,Tanay Kumar,Male,5,14-04-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-04
+MLPT00142,Akshara Singh,Female,55,14-04-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-04
+MLPT00143,Eesha Gupta,Female,9,15-04-2023,Tilak Nagar,Dr. Kajal,Implants,No,Yes,First Visit,Implants,22553,0,0,6100,500,22053,0,15953,Online Transfer,2023-04
+MLPT00144,Nikita Sharma,Female,54,17-04-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-04
+MLPT00145,Sakshi Yadav,Female,66,17-04-2023,Chander Vihar,Dr. Karan,Cleaning,No,No,First Visit,Cleaning,649,0,0,0,0,649,0,649,UPI,2023-04
+MLPT00146,Jagdish Prasad,Male,53,17-04-2023,Tilak Nagar,Dr. Kajal,RCT,No,Yes,First Visit,RCT,2678,0,0,0,0,2678,0,2678,Card,2023-04
+MLPT00147,Narendra Pal,Male,8,19-04-2023,Tilak Nagar,Dr. Karan,Extraction,No,No,First Visit,Extraction,745,0,0,0,298,447,0,447,Cash,2023-04
+MLPT00148,Narendra Pal,Male,26,20-04-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-04
+MLPT00149,Akshat Kumar,Male,12,20-04-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-04
+MLPT00150,Parth Patel,Male,14,20-04-2023,Janakpuri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-04
+MLPT00151,Avani Yadav,Female,29,22-04-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-04
+MLPT00152,Ayush Verma,Male,52,22-04-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-04
+MLPT00153,Ritu Singh,Female,37,23-04-2023,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-04
+MLPT00154,Rishi Yadav,Male,10,24-04-2023,Vikas Puri,Dr. Karan,Filling,No,Yes,First Visit,Filling,929,0,0,0,0,929,0,929,UPI,2023-04
+MLPT00155,Pawan Kumar,Male,62,24-04-2023,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-04
+MLPT00156,Dhruv Jain,Male,38,24-04-2023,Vikas Puri,Dr. Kajal,Bleaching,No,Yes,Walk-in,Bleaching,1220,0,0,0,100,1120,0,1120,Cash,2023-04
+MLPT00157,Chetan Sharma,Male,29,25-04-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Online Transfer,2023-04
+MLPT00158,Hitesh Gupta,Male,10,25-04-2023,Punjabi Bagh,Dr. Karan,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,Cash,2023-04
+MLPT00159,Vivaan Sharma,Male,22,26-04-2023,Vikas Puri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Card,2023-04
+MLPT00160,Poonam Devi,Female,7,27-04-2023,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-04
+MLPT00161,Arnav Gupta,Male,51,28-04-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,80,120,0,120,Card,2023-04
+MLPT00162,Jia Verma,Female,73,29-04-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-04
+MLPT00163,Vandana Gupta,Female,13,29-04-2023,Vikas Puri,Dr. Karan,Filling,No,No,First Visit,Filling,770,0,0,0,308,462,0,462,Card,2023-04
+MLPT00164,Naina Gupta,Female,53,01-05-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-05
+MLPT00165,Gagan Bansal,Male,19,02-05-2023,Chander Vihar,Dr. Kajal,RCT,No,Yes,First Visit,RCT,3085,0,0,0,0,3085,0,3085,UPI,2023-05
+MLPT00166,Ronit Sharma,Male,31,02-05-2023,Dwarka,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-05
+MLPT00167,Advait Singh,Male,15,02-05-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-05
+MLPT00168,Jatin Kumar,Male,10,04-05-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-05
+MLPT00169,Ishita Singh,Female,37,04-05-2023,Dwarka,Dr. Karan,Cleaning,No,No,First Visit,Cleaning,527,0,0,0,0,527,0,527,UPI,2023-05
+MLPT00170,Riya Kumar,Female,51,05-05-2023,Vikas Puri,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,426,0,0,0,0,426,0,426,UPI,2023-05
+MLPT00171,Ayush Verma,Male,62,05-05-2023,Rajouri Garden,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-05
+MLPT00172,Tanu Verma,Female,25,06-05-2023,Dwarka,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-05
+MLPT00173,Akshat Kumar,Male,72,06-05-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-05
+MLPT00174,Parth Patel,Male,61,08-05-2023,Chander Vihar,Dr. Karan,Crown,No,Yes,First Visit,Crown,3319,0,0,1010,0,3319,0,2309,Cash,2023-05
+MLPT00175,Aarav Sharma,Male,37,08-05-2023,Tilak Nagar,Dr. Karan,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,Card,2023-05
+MLPT00176,Naman Gupta,Male,5,08-05-2023,Rajouri Garden,Dr. Kajal,Implants,No,Yes,First Visit,Implants,25228,0,0,7260,0,25228,0,17968,Cash,2023-05
+MLPT00177,Ronit Sharma,Male,70,09-05-2023,Punjabi Bagh,Dr. Kajal,RCT,No,Yes,Referral,RCT,4028,0,0,0,0,4028,0,4028,UPI,2023-05
+MLPT00178,Naman Gupta,Male,71,09-05-2023,Janakpuri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-05
+MLPT00179,Girish Yadav,Male,57,10-05-2023,Vikas Puri,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1539,0,0,0,615.6,923.4,0,923.4,Card,2023-05
+MLPT00180,Saisha Singh,Female,5,11-05-2023,Dwarka,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,UPI,2023-05
+MLPT00181,Heena Kumari,Female,11,12-05-2023,Janakpuri,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-05
+MLPT00182,Vanya Gupta,Female,16,12-05-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,50,150,0,150,Cash,2023-05
+MLPT00183,Omkar Singh,Male,6,13-05-2023,Paschim Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-05
+MLPT00184,Manoj Kumar,Male,45,13-05-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-05
+MLPT00185,Ishita Singh,Female,17,16-05-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-05
+MLPT00186,Kiara Jain,Female,58,16-05-2023,Tilak Nagar,Dr. Karan,Crown,No,Yes,First Visit,Crown,2792,0,0,1060,0,2792,0,1732,Card,2023-05
+MLPT00187,Ronit Sharma,Male,70,18-05-2023,Hari Nagar,Dr. Karan,Filling,No,Yes,First Visit,Filling,769,0,0,0,0,769,0,769,UPI,2023-05
+MLPT00188,Pranav Kumar,Male,74,18-05-2023,Janakpuri,Dr. Kajal,RCT,No,No,First Visit,RCT,4005,0,0,0,0,4005,0,4005,Cash,2023-05
+MLPT00189,Omkar Singh,Male,18,19-05-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-05
+MLPT00190,Shalini Jain,Female,63,20-05-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-05
+MLPT00191,Tanu Verma,Female,69,22-05-2023,Tilak Nagar,Dr. Kajal,Bleaching,No,No,First Visit,Bleaching,1248,0,0,0,0,1248,0,1248,Cash,2023-05
+MLPT00192,Aarav Sharma,Male,15,22-05-2023,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-05
+MLPT00193,Rakesh Sharma,Male,42,23-05-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,UPI,2023-05
+MLPT00194,Jatin Kumar,Male,8,23-05-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-05
+MLPT00195,Poonam Devi,Female,9,24-05-2023,Chander Vihar,Dr. Kajal,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,Cash,2023-05
+MLPT00196,Saisha Singh,Female,60,25-05-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,50,300,0,300,Cash,2023-05
+MLPT00197,Kiara Jain,Female,80,25-05-2023,Vikas Puri,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-05
+MLPT00198,Pawan Kumar,Male,43,25-05-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-05
+MLPT00199,Harsh Malik,Male,6,26-05-2023,Chander Vihar,Dr. Kajal,RCT,No,Yes,Referral,RCT,3236,0,0,0,200,3036,0,3036,Cash,2023-05
+MLPT00200,Manav Jain,Male,72,29-05-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-05
+MLPT00201,Raghav Singh,Male,6,30-05-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-05
+MLPT00202,Hansika Kumar,Female,39,31-05-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-05
+MLPT00203,Megha Gupta,Female,5,31-05-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-05
+MLPT00204,Suhani Yadav,Female,65,01-06-2023,Vikas Puri,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,461,0,0,0,0,461,0,461,UPI,2023-06
+MLPT00205,Ankit Kumar,Male,8,01-06-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-06
+MLPT00206,Urvi Sharma,Female,46,02-06-2023,Tilak Nagar,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Cash,2023-06
+MLPT00207,Heena Kumari,Female,22,05-06-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-06
+MLPT00208,Aradhya Verma,Female,31,05-06-2023,Dwarka,Dr. Karan,Cleaning,No,Yes,First Visit,Cleaning,511,0,0,0,0,511,0,511,UPI,2023-06
+MLPT00209,Kaira Yadav,Female,47,06-06-2023,Uttam Nagar,Dr. Kajal,OPD,No,No,Walk-in,OPD,0,0,200,0,80,120,0,120,Cash,2023-06
+MLPT00210,Suhani Yadav,Female,17,06-06-2023,Vikas Puri,Dr. Karan,Cleaning,No,Yes,First Visit,Cleaning,609,0,0,0,0,609,0,609,Cash,2023-06
+MLPT00211,Sandeep Gupta,Male,66,07-06-2023,Punjabi Bagh,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-06
+MLPT00212,Deepa Sharma,Female,53,08-06-2023,Janakpuri,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1433,0,0,0,573.2,859.8,0,859.8,UPI,2023-06
+MLPT00213,Shalini Jain,Female,54,08-06-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-06
+MLPT00214,Aryan Patel,Male,26,08-06-2023,Tilak Nagar,Dr. Kajal,Bleaching,No,No,First Visit,Bleaching,1637,0,0,0,0,1071,566,1071,Cash,2023-06
+MLPT00215,Kabir Singh,Male,77,09-06-2023,Janakpuri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-06
+MLPT00216,Kiara Jain,Female,38,09-06-2023,Tilak Nagar,Dr. Karan,Crown,No,Yes,First Visit,Crown,3482,0,0,920,0,3482,0,2562,Card,2023-06
+MLPT00217,Aarav Sharma,Male,53,09-06-2023,Uttam Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-06
+MLPT00218,Sandeep Gupta,Male,45,11-06-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-06
+MLPT00219,Anaya Gupta,Female,33,13-06-2023,Tilak Nagar,Dr. Kajal,Cleaning,No,No,First Visit,Cleaning,677,0,0,0,270.8,406.2,0,406.2,Cash,2023-06
+MLPT00220,Anaya Gupta,Female,45,14-06-2023,Vikas Puri,Dr. Kajal,Bleaching,No,No,Walk-in,Bleaching,1744,0,0,0,500,1244,0,1244,Cash,2023-06
+MLPT00221,Zeeshan Khan,Male,41,15-06-2023,Janakpuri,Dr. Karan,Cleaning,No,No,First Visit,Cleaning,417,0,0,0,166.8,250.2,0,250.2,Cash,2023-06
+MLPT00222,Kiara Jain,Female,20,15-06-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2023-06
+MLPT00223,Sakshi Yadav,Female,58,15-06-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-06
+MLPT00224,Naman Gupta,Male,13,17-06-2023,Tilak Nagar,Dr. Karan,Extraction,No,Yes,Walk-in,Extraction,712,0,0,0,0,712,0,712,UPI,2023-06
+MLPT00225,Pihu Patel,Female,49,19-06-2023,Vikas Puri,Dr. Kajal,Bleaching,No,No,First Visit,Bleaching,1672,0,0,0,0,1672,0,1672,Online Transfer,2023-06
+MLPT00226,Pawan Kumar,Male,48,19-06-2023,Tilak Nagar,Dr. Karan,Filling,No,Yes,First Visit,Filling,749,0,0,0,0,749,0,749,Card,2023-06
+MLPT00227,Tanisha Jain,Female,33,20-06-2023,Rajouri Garden,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1760,0,0,0,200,1282,278,1282,UPI,2023-06
+MLPT00228,Aditi Sharma,Female,39,20-06-2023,Vikas Puri,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,642,0,0,0,0,642,0,642,Cash,2023-06
+MLPT00229,Charu Devi,Female,20,22-06-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Card,2023-06
+MLPT00230,Chetan Sharma,Male,9,22-06-2023,Uttam Nagar,Dr. Karan,Crown,No,Yes,First Visit,Crown,2456,0,0,970,0,2456,0,1486,Cash,2023-06
+MLPT00231,Megha Gupta,Female,59,22-06-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-06
+MLPT00232,Raghav Singh,Male,32,23-06-2023,Chander Vihar,Dr. Karan,Crown,No,No,First Visit,Crown,3087,0,0,1270,0,3087,0,1817,Cash,2023-06
+MLPT00233,Suhani Yadav,Female,66,24-06-2023,Chander Vihar,Dr. Karan,Extraction,No,No,First Visit,Extraction,801,0,0,0,0,801,0,801,Card,2023-06
+MLPT00234,Heena Kumari,Female,10,24-06-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2023-06
+MLPT00235,Ritu Singh,Female,48,26-06-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-06
+MLPT00236,Arnav Gupta,Male,18,27-06-2023,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-06
+MLPT00237,Suhani Yadav,Female,73,28-06-2023,Vikas Puri,Dr. Kajal,Cleaning,No,No,First Visit,Cleaning,609,0,0,0,0,609,0,609,Online Transfer,2023-06
+MLPT00238,Vivaan Sharma,Male,56,28-06-2023,Chander Vihar,Dr. Kajal,Cleaning,No,No,First Visit,Cleaning,675,0,0,0,0,675,0,675,UPI,2023-06
+MLPT00239,Ronit Sharma,Male,46,30-06-2023,Tilak Nagar,Dr. Karan,Filling,No,No,Walk-in,Filling,630,0,0,0,0,630,0,630,Cash,2023-06
+MLPT00240,Jia Verma,Female,28,03-07-2023,Tilak Nagar,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,590,0,0,0,0,590,0,590,UPI,2023-07
+MLPT00241,Ankit Kumar,Male,61,03-07-2023,Janakpuri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-07
+MLPT00242,Diya Sharma,Female,17,04-07-2023,Chander Vihar,Dr. Kajal,Cleaning,No,Yes,Referral,Cleaning,598,0,0,0,0,598,0,598,UPI,2023-07
+MLPT00243,Aisha Khan,Female,22,04-07-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-07
+MLPT00244,Narendra Pal,Male,56,05-07-2023,Rajouri Garden,Dr. Kajal,Braces,No,Yes,First Visit,Braces,15653,0,0,4260,0,15653,0,11393,Cash,2023-07
+MLPT00245,Deepa Sharma,Female,79,06-07-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-07
+MLPT00246,Deepa Sharma,Female,28,06-07-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-07
+MLPT00247,Aarav Sharma,Male,34,07-07-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-07
+MLPT00248,Suhani Yadav,Female,71,07-07-2023,Paschim Vihar,Dr. Kajal,RCT,No,Yes,First Visit,RCT,3105,0,0,0,200,2905,0,2905,Card,2023-07
+MLPT00249,Yash Jain,Male,20,07-07-2023,Janakpuri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-07
+MLPT00250,Ayush Verma,Male,25,08-07-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2023-07
+MLPT00251,Naman Gupta,Male,25,12-07-2023,Tilak Nagar,Dr. Karan,Filling,No,Yes,First Visit,Filling,999,0,0,0,0,999,0,999,Card,2023-07
+MLPT00252,Ishaan Chauhan,Male,11,12-07-2023,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-07
+MLPT00253,Nikita Sharma,Female,17,13-07-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-07
+MLPT00254,Sandeep Gupta,Male,8,14-07-2023,Rajouri Garden,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-07
+MLPT00255,Lakshay Sharma,Male,35,18-07-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-07
+MLPT00256,Vivaan Sharma,Male,12,18-07-2023,Tilak Nagar,Dr. Kajal,Braces,No,Yes,Walk-in,Braces,17409,0,0,3360,300,17109,0,13749,UPI,2023-07
+MLPT00257,Kabir Singh,Male,6,19-07-2023,Dwarka,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2023-07
+MLPT00258,Sakshi Yadav,Female,52,20-07-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-07
+MLPT00259,Jatin Kumar,Male,55,20-07-2023,Punjabi Bagh,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2023-07
+MLPT00260,Om Prakash,Male,57,21-07-2023,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-07
+MLPT00261,Nikita Sharma,Female,50,21-07-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2023-07
+MLPT00262,Avani Yadav,Female,19,22-07-2023,Chander Vihar,Dr. Kajal,Braces,No,No,First Visit,Braces,16394,0,0,4490,0,16394,0,11904,Cash,2023-07
+MLPT00263,Bharat Singh,Male,34,22-07-2023,Vikas Puri,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1299,0,0,0,0,1299,0,1299,Cash,2023-07
+MLPT00264,Sahil Gupta,Male,21,24-07-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Card,2023-07
+MLPT00265,Om Prakash,Male,69,24-07-2023,Rajouri Garden,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-07
+MLPT00266,Megha Gupta,Female,72,27-07-2023,Tilak Nagar,Dr. Karan,Extraction,No,No,First Visit,Extraction,961,0,0,0,200,761,0,761,UPI,2023-07
+MLPT00267,Kiara Jain,Female,22,27-07-2023,Fateh Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-07
+MLPT00268,Suhani Yadav,Female,13,29-07-2023,Rajouri Garden,Dr. Kajal,Implants,No,Yes,First Visit,Implants,22689,0,0,5980,0,22689,0,16709,Card,2023-07
+MLPT00269,Ayush Verma,Male,78,29-07-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Online Transfer,2023-07
+MLPT00270,Lata Sharma,Female,28,31-07-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-07
+MLPT00271,Aarav Sharma,Male,53,31-07-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-07
+MLPT00272,Jia Verma,Female,23,31-07-2023,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-07
+MLPT00273,Pihu Patel,Female,46,01-08-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-08
+MLPT00274,Tarun Kumar,Male,11,02-08-2023,Uttam Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-08
+MLPT00275,Rishi Yadav,Male,43,04-08-2023,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-08
+MLPT00276,Gagan Bansal,Male,33,04-08-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-08
+MLPT00277,Aryan Patel,Male,66,04-08-2023,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-08
+MLPT00278,Hitesh Gupta,Male,8,05-08-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-08
+MLPT00279,Dinesh Verma,Male,23,07-08-2023,Janakpuri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Card,2023-08
+MLPT00280,Bharat Singh,Male,73,08-08-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,50,300,0,300,Cash,2023-08
+MLPT00281,Suhani Yadav,Female,59,08-08-2023,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-08
+MLPT00282,Jagdish Prasad,Male,53,09-08-2023,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-08
+MLPT00283,Vanya Gupta,Female,63,10-08-2023,Vikas Puri,Dr. Kajal,Braces,No,Yes,Referral,Braces,12227,0,0,1860,0,12227,0,10367,Card,2023-08
+MLPT00284,Samar Patel,Male,78,11-08-2023,Janakpuri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-08
+MLPT00285,Yash Jain,Male,58,12-08-2023,Hari Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-08
+MLPT00286,Dhruv Jain,Male,23,12-08-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2023-08
+MLPT00287,Bhavya Jain,Female,70,15-08-2023,Vikas Puri,Dr. Kajal,Bleaching,No,No,Referral,Bleaching,1204,0,0,0,481.6,722.4,0,722.4,UPI,2023-08
+MLPT00288,Kajal Singh,Female,60,15-08-2023,Janakpuri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2023-08
+MLPT00289,Poonam Devi,Female,54,16-08-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-08
+MLPT00290,Aarav Sharma,Male,24,17-08-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-08
+MLPT00291,Urvi Sharma,Female,24,17-08-2023,Janakpuri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-08
+MLPT00292,Advait Singh,Male,63,18-08-2023,Uttam Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-08
+MLPT00293,Girish Yadav,Male,41,19-08-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-08
+MLPT00294,Heena Kumari,Female,70,19-08-2023,Tilak Nagar,Dr. Karan,Crown,No,Yes,First Visit,Crown,2157,0,0,640,0,2157,0,1517,Card,2023-08
+MLPT00295,Heena Kumari,Female,61,21-08-2023,Tilak Nagar,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,759,0,0,0,0,759,0,759,Online Transfer,2023-08
+MLPT00296,Riya Kumar,Female,53,21-08-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-08
+MLPT00297,Avani Yadav,Female,6,23-08-2023,Chander Vihar,Dr. Kajal,Implants,No,No,First Visit,Implants,28849,0,0,6920,0,19914,8935,12994,Cash,2023-08
+MLPT00298,Sakshi Yadav,Female,51,23-08-2023,Chander Vihar,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,462,0,0,0,0,462,0,462,Card,2023-08
+MLPT00299,Akshara Singh,Female,40,24-08-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-08
+MLPT00300,Yash Jain,Male,31,25-08-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-08
+MLPT00301,Avani Yadav,Female,56,28-08-2023,Punjabi Bagh,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-08
+MLPT00302,Bharat Singh,Male,56,28-08-2023,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-08
+MLPT00303,Kabir Singh,Male,59,29-08-2023,Tilak Nagar,Dr. Karan,Crown,No,No,First Visit,Crown,2391,0,0,1040,0,2391,0,1351,Card,2023-08
+MLPT00304,Misha Sharma,Female,5,30-08-2023,Chander Vihar,Dr. Kajal,Cleaning,No,No,Referral,Cleaning,683,0,0,0,0,683,0,683,Card,2023-08
+MLPT00305,Ritu Singh,Female,56,31-08-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-08
+MLPT00306,Uday Singh,Male,35,31-08-2023,Fateh Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-08
+MLPT00307,Aarav Sharma,Male,63,31-08-2023,Rajouri Garden,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2023-08
+MLPT00308,Misha Sharma,Female,64,05-09-2023,Vikas Puri,Dr. Kajal,RCT,No,Yes,First Visit,RCT,2945,0,0,0,0,2945,0,2945,Cash,2023-09
+MLPT00309,Kabir Singh,Male,34,05-09-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-09
+MLPT00310,Anika Patel,Female,74,06-09-2023,Hari Nagar,Dr. Kajal,Cleaning,No,Yes,Referral,Cleaning,544,0,0,0,0,544,0,544,Cash,2023-09
+MLPT00311,Dinesh Verma,Male,30,08-09-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-09
+MLPT00312,Samar Patel,Male,27,08-09-2023,Janakpuri,Dr. Kajal,Bleaching,No,Yes,Referral,Bleaching,1792,0,0,0,500,1292,0,1292,Online Transfer,2023-09
+MLPT00313,Gia Patel,Female,70,08-09-2023,Tilak Nagar,Dr. Kajal,RCT,No,No,First Visit,RCT,3043,0,0,0,0,3043,0,3043,Card,2023-09
+MLPT00314,Urvi Sharma,Female,51,09-09-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-09
+MLPT00315,Kabir Singh,Male,38,09-09-2023,Vikas Puri,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-09
+MLPT00316,Nikita Sharma,Female,56,11-09-2023,Rajouri Garden,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,50,300,0,300,Card,2023-09
+MLPT00317,Ayush Verma,Male,12,11-09-2023,Vikas Puri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,80,120,0,120,Card,2023-09
+MLPT00318,Jagdish Prasad,Male,23,12-09-2023,Vikas Puri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Cash,2023-09
+MLPT00319,Aarav Sharma,Male,57,12-09-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-09
+MLPT00320,Pranav Kumar,Male,37,13-09-2023,Rajouri Garden,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-09
+MLPT00321,Diya Sharma,Female,74,14-09-2023,Vikas Puri,Dr. Karan,Crown,No,Yes,First Visit,Crown,2335,0,0,690,0,2335,0,1645,Cash,2023-09
+MLPT00322,Sakshi Yadav,Female,76,14-09-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-09
+MLPT00323,Kajal Singh,Female,7,15-09-2023,Vikas Puri,Dr. Kajal,RCT,No,Yes,First Visit,RCT,4060,0,0,0,300,3760,0,3760,UPI,2023-09
+MLPT00324,Lakshay Sharma,Male,62,15-09-2023,Uttam Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-09
+MLPT00325,Sakshi Yadav,Female,42,16-09-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-09
+MLPT00326,Uday Singh,Male,37,18-09-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-09
+MLPT00327,Chetan Sharma,Male,45,18-09-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,50,300,0,300,UPI,2023-09
+MLPT00328,Tanay Kumar,Male,74,19-09-2023,Uttam Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-09
+MLPT00329,Aditi Sharma,Female,17,20-09-2023,Chander Vihar,Dr. Karan,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,UPI,2023-09
+MLPT00330,Sandeep Gupta,Male,38,20-09-2023,Janakpuri,Dr. Kajal,Braces,No,Yes,First Visit,Braces,18927,0,0,4890,0,16418,2509,11528,UPI,2023-09
+MLPT00331,Narendra Pal,Male,41,23-09-2023,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-09
+MLPT00332,Narendra Pal,Male,35,27-09-2023,Tilak Nagar,Dr. Kajal,Cleaning,No,No,First Visit,Cleaning,656,0,0,0,0,656,0,656,UPI,2023-09
+MLPT00333,Avani Yadav,Female,67,27-09-2023,Janakpuri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-09
+MLPT00334,Uma Sharma,Female,80,28-09-2023,Tilak Nagar,Dr. Kajal,Bleaching,No,Yes,Walk-in,Bleaching,1616,0,0,0,0,1616,0,1616,UPI,2023-09
+MLPT00335,Uday Singh,Male,13,28-09-2023,Uttam Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-09
+MLPT00336,Tanisha Jain,Female,12,29-09-2023,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-09
+MLPT00337,Deepa Sharma,Female,33,29-09-2023,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-09
+MLPT00338,Devansh Yadav,Male,65,30-09-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-09
+MLPT00339,Uday Singh,Male,16,30-09-2023,Tilak Nagar,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,UPI,2023-09
+MLPT00340,Deepa Sharma,Female,7,04-10-2023,Hari Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2023-10
+MLPT00341,Riya Kumar,Female,39,05-10-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-10
+MLPT00342,Vandana Gupta,Female,21,05-10-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-10
+MLPT00343,Heena Kumari,Female,55,07-10-2023,Fateh Nagar,Dr. Kajal,Braces,No,Yes,First Visit,Braces,16689,0,0,4430,300,16389,0,11959,UPI,2023-10
+MLPT00344,Aditi Sharma,Female,59,09-10-2023,Janakpuri,Dr. Kajal,Braces,No,Yes,First Visit,Braces,15644,0,0,2560,0,15644,0,13084,UPI,2023-10
+MLPT00345,Bharat Singh,Male,26,09-10-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,UPI,2023-10
+MLPT00346,Ishita Singh,Female,8,10-10-2023,Tilak Nagar,Dr. Kajal,RCT,No,No,First Visit,RCT,2710,0,0,0,0,2710,0,2710,Cash,2023-10
+MLPT00347,Om Prakash,Male,27,10-10-2023,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-10
+MLPT00348,Tarun Kumar,Male,67,10-10-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-10
+MLPT00349,Kiara Jain,Female,40,12-10-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-10
+MLPT00350,Girish Yadav,Male,37,12-10-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-10
+MLPT00351,Kajal Singh,Female,23,13-10-2023,Janakpuri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Card,2023-10
+MLPT00352,Sakshi Yadav,Female,61,13-10-2023,Chander Vihar,Dr. Kajal,Cleaning,No,No,Referral,Cleaning,425,0,0,0,0,425,0,425,UPI,2023-10
+MLPT00353,Kaira Yadav,Female,63,14-10-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2023-10
+MLPT00354,Anika Patel,Female,15,16-10-2023,Chander Vihar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-10
+MLPT00355,Aditi Sharma,Female,72,17-10-2023,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-10
+MLPT00356,Ankit Kumar,Male,58,17-10-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-10
+MLPT00357,Gagan Bansal,Male,11,18-10-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-10
+MLPT00358,Chetan Sharma,Male,15,18-10-2023,Rajouri Garden,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,846,0,0,0,0,846,0,846,Card,2023-10
+MLPT00359,Saisha Singh,Female,47,18-10-2023,Rajouri Garden,Dr. Kajal,RCT,No,No,First Visit,RCT,4185,0,0,0,0,4185,0,4185,UPI,2023-10
+MLPT00360,Lakshay Sharma,Male,44,19-10-2023,Janakpuri,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-10
+MLPT00361,Deepa Sharma,Female,64,19-10-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-10
+MLPT00362,Suhani Yadav,Female,10,19-10-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-10
+MLPT00363,Naina Gupta,Female,35,20-10-2023,Uttam Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2023-10
+MLPT00364,Aisha Khan,Female,61,20-10-2023,Vikas Puri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,80,120,0,120,UPI,2023-10
+MLPT00365,Jia Verma,Female,37,21-10-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-10
+MLPT00366,Jatin Kumar,Male,17,23-10-2023,Chander Vihar,Dr. Karan,Extraction,No,Yes,Walk-in,Extraction,649,0,0,0,0,649,0,649,Cash,2023-10
+MLPT00367,Pawan Kumar,Male,63,23-10-2023,Chander Vihar,Dr. Karan,Extraction,No,Yes,Walk-in,Extraction,617,0,0,0,0,617,0,617,UPI,2023-10
+MLPT00368,Reyansh Verma,Male,65,24-10-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Card,2023-10
+MLPT00369,Gagan Bansal,Male,34,24-10-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-10
+MLPT00370,Jia Verma,Female,79,25-10-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-10
+MLPT00371,Naina Gupta,Female,70,25-10-2023,Rajouri Garden,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2023-10
+MLPT00372,Samar Patel,Male,75,26-10-2023,Chander Vihar,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1660,0,0,0,0,1660,0,1660,Cash,2023-10
+MLPT00373,Aradhya Verma,Female,12,26-10-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-10
+MLPT00374,Siya Verma,Female,5,27-10-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2023-10
+MLPT00375,Tanu Verma,Female,71,27-10-2023,Uttam Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-10
+MLPT00376,Sakshi Yadav,Female,11,28-10-2023,Tilak Nagar,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,80,120,0,120,Card,2023-10
+MLPT00377,Rakesh Sharma,Male,69,30-10-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-10
+MLPT00378,Tanay Kumar,Male,9,30-10-2023,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2023-10
+MLPT00379,Advait Singh,Male,51,31-10-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Online Transfer,2023-10
+MLPT00380,Siya Verma,Female,33,31-10-2023,Hari Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-10
+MLPT00381,Anaya Gupta,Female,65,01-11-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-11
+MLPT00382,Anika Patel,Female,22,02-11-2023,Punjabi Bagh,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-11
+MLPT00383,Bhavya Jain,Female,51,03-11-2023,Vikas Puri,Dr. Kajal,Braces,No,No,Walk-in,Braces,14967,0,0,3670,0,14967,0,11297,UPI,2023-11
+MLPT00384,Bhavya Jain,Female,47,05-11-2023,Tilak Nagar,Dr. Karan,Crown,No,No,First Visit,Crown,3447,0,0,1260,200,3023,224,1763,UPI,2023-11
+MLPT00385,Tanay Kumar,Male,52,06-11-2023,Rajouri Garden,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,870,0,0,0,348,522,0,522,UPI,2023-11
+MLPT00386,Bhavya Jain,Female,32,06-11-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-11
+MLPT00387,Pihu Patel,Female,17,07-11-2023,Hari Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-11
+MLPT00388,Tanu Verma,Female,55,07-11-2023,Chander Vihar,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,691,0,0,0,0,691,0,691,Cash,2023-11
+MLPT00389,Omkar Singh,Male,38,08-11-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-11
+MLPT00390,Bhavya Jain,Female,44,08-11-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Card,2023-11
+MLPT00391,Raghav Singh,Male,8,08-11-2023,Vikas Puri,Dr. Kajal,Bleaching,No,Yes,Referral,Bleaching,1759,0,0,0,500,1259,0,1259,Cash,2023-11
+MLPT00392,Hansika Kumar,Female,12,09-11-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-11
+MLPT00393,Naina Gupta,Female,80,09-11-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2023-11
+MLPT00394,Ishaan Chauhan,Male,12,09-11-2023,Dwarka,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-11
+MLPT00395,Suhani Yadav,Female,55,10-11-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-11
+MLPT00396,Lakshay Sharma,Male,46,10-11-2023,Chander Vihar,Dr. Karan,Cleaning,No,No,First Visit,Cleaning,618,0,0,0,0,618,0,618,UPI,2023-11
+MLPT00397,Akshat Kumar,Male,48,10-11-2023,Chander Vihar,Dr. Kajal,Bleaching,No,No,First Visit,Bleaching,1523,0,0,0,200,1209,114,1209,Card,2023-11
+MLPT00398,Zeeshan Khan,Male,20,15-11-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-11
+MLPT00399,Omkar Singh,Male,49,17-11-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,100,250,0,250,Card,2023-11
+MLPT00400,Kishan Lal,Male,18,17-11-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-11
+MLPT00401,Ankit Kumar,Male,64,18-11-2023,Rajouri Garden,Dr. Karan,Crown,No,No,First Visit,Crown,2503,0,0,760,0,2503,0,1743,Cash,2023-11
+MLPT00402,Eesha Gupta,Female,17,18-11-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-11
+MLPT00403,Advait Singh,Male,25,21-11-2023,Chander Vihar,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,512,0,0,0,204.8,307.2,0,307.2,Online Transfer,2023-11
+MLPT00404,Hitesh Gupta,Male,45,21-11-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-11
+MLPT00405,Ishaan Chauhan,Male,71,23-11-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-11
+MLPT00406,Ankit Kumar,Male,29,23-11-2023,Kirti Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-11
+MLPT00407,Naina Gupta,Female,17,24-11-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-11
+MLPT00408,Nikita Sharma,Female,39,25-11-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-11
+MLPT00409,Ronit Sharma,Male,64,27-11-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-11
+MLPT00410,Narendra Pal,Male,75,28-11-2023,Vikas Puri,Dr. Karan,Crown,No,Yes,First Visit,Crown,3894,0,0,1220,0,3894,0,2674,UPI,2023-11
+MLPT00411,Manav Jain,Male,19,28-11-2023,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-11
+MLPT00412,Deepa Sharma,Female,53,28-11-2023,Paschim Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-11
+MLPT00413,Aarav Sharma,Male,41,29-11-2023,Vikas Puri,Dr. Kajal,RCT,No,Yes,First Visit,RCT,3676,0,0,0,0,2348,1328,2348,UPI,2023-11
+MLPT00414,Kajal Singh,Female,68,30-11-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-11
+MLPT00415,Aradhya Verma,Female,21,30-11-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-11
+MLPT00416,Anaya Gupta,Female,7,02-12-2023,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-12
+MLPT00417,Ishaan Chauhan,Male,58,05-12-2023,Uttam Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-12
+MLPT00418,Pranav Kumar,Male,25,05-12-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-12
+MLPT00419,Zeeshan Khan,Male,10,06-12-2023,Janakpuri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-12
+MLPT00420,Shalini Jain,Female,70,06-12-2023,Punjabi Bagh,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-12
+MLPT00421,Uma Sharma,Female,37,06-12-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-12
+MLPT00422,Chetan Sharma,Male,45,06-12-2023,Tilak Nagar,Dr. Kajal,Braces,No,Yes,First Visit,Braces,17426,0,0,3880,0,17426,0,13546,Cash,2023-12
+MLPT00423,Omkar Singh,Male,42,08-12-2023,Chander Vihar,Dr. Kajal,Implants,No,Yes,Referral,Implants,26277,0,0,6600,0,26277,0,19677,Cash,2023-12
+MLPT00424,Manoj Kumar,Male,56,08-12-2023,Chander Vihar,Dr. Kajal,Braces,No,Yes,First Visit,Braces,18196,0,0,4490,0,18196,0,13706,Card,2023-12
+MLPT00425,Girish Yadav,Male,19,08-12-2023,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-12
+MLPT00426,Ishaan Chauhan,Male,58,08-12-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-12
+MLPT00427,Heena Kumari,Female,53,09-12-2023,Punjabi Bagh,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,50,150,0,150,Card,2023-12
+MLPT00428,Omkar Singh,Male,72,10-12-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-12
+MLPT00429,Ronit Sharma,Male,59,11-12-2023,Chander Vihar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,UPI,2023-12
+MLPT00430,Advait Singh,Male,72,12-12-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-12
+MLPT00431,Hansika Kumar,Female,16,12-12-2023,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2023-12
+MLPT00432,Aisha Khan,Female,9,12-12-2023,Chander Vihar,Dr. Kajal,Implants,No,Yes,First Visit,Implants,27830,0,0,8840,0,27830,0,18990,Card,2023-12
+MLPT00433,Diya Sharma,Female,52,13-12-2023,Tilak Nagar,Dr. Karan,Filling,No,No,Referral,Filling,1124,0,0,0,0,1124,0,1124,Card,2023-12
+MLPT00434,Charu Devi,Female,14,14-12-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2023-12
+MLPT00435,Akshat Kumar,Male,7,15-12-2023,Dwarka,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2023-12
+MLPT00436,Tanu Verma,Female,6,15-12-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2023-12
+MLPT00437,Arnav Gupta,Male,74,15-12-2023,Uttam Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2023-12
+MLPT00438,Manoj Kumar,Male,49,16-12-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,50,300,0,300,Cash,2023-12
+MLPT00439,Lakshay Sharma,Male,49,16-12-2023,Tilak Nagar,Dr. Kajal,Implants,No,Yes,First Visit,Implants,26853,0,0,5540,0,26853,0,21313,UPI,2023-12
+MLPT00440,Devansh Yadav,Male,80,16-12-2023,Chander Vihar,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,459,0,0,0,0,459,0,459,Online Transfer,2023-12
+MLPT00441,Yash Jain,Male,37,18-12-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-12
+MLPT00442,Parth Patel,Male,80,19-12-2023,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2023-12
+MLPT00443,Raghav Singh,Male,25,19-12-2023,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2023-12
+MLPT00444,Harsh Malik,Male,70,20-12-2023,Chander Vihar,Dr. Kajal,RCT,No,Yes,First Visit,RCT,2770,0,0,0,0,2770,0,2770,UPI,2023-12
+MLPT00445,Saisha Singh,Female,31,20-12-2023,Paschim Vihar,Dr. Kajal,Braces,No,Yes,First Visit,Braces,17345,0,0,3920,0,17345,0,13425,Cash,2023-12
+MLPT00446,Jatin Kumar,Male,80,20-12-2023,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-12
+MLPT00447,Kajal Singh,Female,40,21-12-2023,Punjabi Bagh,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,UPI,2023-12
+MLPT00448,Jia Verma,Female,73,21-12-2023,Vikas Puri,Dr. Kajal,Bleaching,No,No,First Visit,Bleaching,1260,0,0,0,0,1260,0,1260,Cash,2023-12
+MLPT00449,Jia Verma,Female,44,23-12-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-12
+MLPT00450,Vanya Gupta,Female,33,23-12-2023,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-12
+MLPT00451,Poonam Devi,Female,40,26-12-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,Online Transfer,2023-12
+MLPT00452,Gagan Bansal,Male,13,26-12-2023,Janakpuri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-12
+MLPT00453,Ritu Singh,Female,77,26-12-2023,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2023-12
+MLPT00454,Anaya Gupta,Female,68,27-12-2023,Tilak Nagar,Dr. Kajal,Implants,No,No,Walk-in,Implants,25553,0,0,8210,0,25553,0,17343,Cash,2023-12
+MLPT00455,Advait Singh,Male,44,27-12-2023,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2023-12
+MLPT00456,Gagan Bansal,Male,52,27-12-2023,Subhash Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2023-12
+MLPT00457,Bharat Singh,Male,10,28-12-2023,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2023-12
+MLPT00458,Ishita Singh,Female,79,29-12-2023,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-12
+MLPT00459,Manav Jain,Male,74,29-12-2023,Rajouri Garden,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2023-12
+MLPT00460,Akshat Kumar,Male,14,30-12-2023,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2023-12
+MLPT00461,Pihu Patel,Female,38,01-01-2024,Chander Vihar,Dr. Karan,Filling,No,Yes,First Visit,Filling,973,0,0,0,389.2,583.8,0,583.8,UPI,2024-01
+MLPT00462,Jia Verma,Female,75,02-01-2024,Tilak Nagar,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,549,0,0,0,0,549,0,549,Card,2024-01
+MLPT00463,Sakshi Yadav,Female,37,02-01-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-01
+MLPT00464,Dhruv Jain,Male,9,02-01-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2024-01
+MLPT00465,Zeeshan Khan,Male,21,03-01-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-01
+MLPT00466,Gagan Bansal,Male,51,03-01-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,50,300,0,300,UPI,2024-01
+MLPT00467,Raghav Singh,Male,73,03-01-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-01
+MLPT00468,Gia Patel,Female,35,04-01-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-01
+MLPT00469,Uma Sharma,Female,61,04-01-2024,Chander Vihar,Dr. Kajal,Implants,No,Yes,First Visit,Implants,26476,0,0,6080,0,26476,0,20396,Online Transfer,2024-01
+MLPT00470,Devansh Yadav,Male,40,04-01-2024,Janakpuri,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,UPI,2024-01
+MLPT00471,Saisha Singh,Female,22,04-01-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2024-01
+MLPT00472,Narendra Pal,Male,47,05-01-2024,Tilak Nagar,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,594,0,0,0,0,594,0,594,Card,2024-01
+MLPT00473,Suhani Yadav,Female,43,08-01-2024,Punjabi Bagh,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-01
+MLPT00474,Nikita Sharma,Female,66,08-01-2024,Paschim Vihar,Dr. Karan,Crown,No,Yes,First Visit,Crown,3663,0,0,1060,0,3663,0,2603,Card,2024-01
+MLPT00475,Ankit Kumar,Male,39,08-01-2024,Vikas Puri,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,976,0,0,0,390.4,585.6,0,585.6,Online Transfer,2024-01
+MLPT00476,Devansh Yadav,Male,11,09-01-2024,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,50,150,0,150,Cash,2024-01
+MLPT00477,Lata Sharma,Female,62,09-01-2024,Shivaji Enclave,Dr. Kajal,Implants,No,Yes,Referral,Implants,21433,0,0,4960,0,21433,0,16473,Online Transfer,2024-01
+MLPT00478,Ritu Singh,Female,77,10-01-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-01
+MLPT00479,Vanya Gupta,Female,13,10-01-2024,Janakpuri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-01
+MLPT00480,Charu Devi,Female,23,11-01-2024,Tilak Nagar,Dr. Kajal,Implants,No,No,First Visit,Implants,27255,0,0,7870,0,27255,0,19385,Cash,2024-01
+MLPT00481,Ritu Singh,Female,26,11-01-2024,Chander Vihar,Dr. Karan,OPD,No,No,Walk-in,OPD,0,0,200,0,50,150,0,150,Cash,2024-01
+MLPT00482,Pihu Patel,Female,48,12-01-2024,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-01
+MLPT00483,Uday Singh,Male,50,12-01-2024,Rajouri Garden,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2024-01
+MLPT00484,Raghav Singh,Male,26,13-01-2024,Vikas Puri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Cash,2024-01
+MLPT00485,Parth Patel,Male,58,13-01-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-01
+MLPT00486,Sakshi Yadav,Female,55,15-01-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-01
+MLPT00487,Rakesh Sharma,Male,75,15-01-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-01
+MLPT00488,Megha Gupta,Female,51,15-01-2024,Vikas Puri,Dr. Kajal,Braces,No,Yes,First Visit,Braces,13567,0,0,4010,1500,12067,0,8057,Cash,2024-01
+MLPT00489,Devansh Yadav,Male,39,16-01-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2024-01
+MLPT00490,Kabir Singh,Male,19,17-01-2024,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-01
+MLPT00491,Eesha Gupta,Female,23,17-01-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-01
+MLPT00492,Avani Yadav,Female,13,18-01-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-01
+MLPT00493,Narendra Pal,Male,35,18-01-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-01
+MLPT00494,Bharat Singh,Male,41,19-01-2024,Tilak Nagar,Dr. Kajal,RCT,No,Yes,First Visit,RCT,3169,0,0,0,0,2945,224,2945,Cash,2024-01
+MLPT00495,Chetan Sharma,Male,35,20-01-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-01
+MLPT00496,Nikita Sharma,Female,73,22-01-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2024-01
+MLPT00497,Arnav Gupta,Male,77,22-01-2024,Tilak Nagar,Dr. Kajal,Bleaching,No,Yes,Referral,Bleaching,1480,0,0,0,0,1480,0,1480,Online Transfer,2024-01
+MLPT00498,Rishi Yadav,Male,31,22-01-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-01
+MLPT00499,Saisha Singh,Female,46,25-01-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-01
+MLPT00500,Bhavya Jain,Female,35,25-01-2024,Paschim Vihar,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,576,0,0,0,0,576,0,576,Cash,2024-01
+MLPT00501,Urvi Sharma,Female,23,26-01-2024,Janakpuri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-01
+MLPT00502,Vandana Gupta,Female,19,26-01-2024,Hari Nagar,Dr. Kajal,Implants,No,No,First Visit,Implants,20558,0,0,7110,0,20558,0,13448,Online Transfer,2024-01
+MLPT00503,Ayush Verma,Male,78,27-01-2024,Vikas Puri,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-01
+MLPT00504,Aryan Patel,Male,36,29-01-2024,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-01
+MLPT00505,Aradhya Verma,Female,39,29-01-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-01
+MLPT00506,Pawan Kumar,Male,39,30-01-2024,Tilak Nagar,Dr. Karan,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,Cash,2024-01
+MLPT00507,Bharat Singh,Male,64,30-01-2024,Tilak Nagar,Dr. Karan,Extraction,No,No,First Visit,Extraction,819,0,0,0,0,819,0,819,Cash,2024-01
+MLPT00508,Dinesh Verma,Male,47,30-01-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-01
+MLPT00509,Bhavya Jain,Female,9,31-01-2024,Hari Nagar,Dr. Kajal,OPD,No,No,Walk-in,OPD,0,0,200,0,80,120,0,120,Card,2024-01
+MLPT00510,Jatin Kumar,Male,61,31-01-2024,Tilak Nagar,Dr. Kajal,Bleaching,No,Yes,Walk-in,Bleaching,1586,0,0,0,0,1586,0,1586,Online Transfer,2024-01
+MLPT00511,Reyansh Verma,Male,45,01-02-2024,Chander Vihar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Cash,2024-02
+MLPT00512,Harsh Malik,Male,53,01-02-2024,Chander Vihar,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1292,0,0,0,0,1292,0,1292,UPI,2024-02
+MLPT00513,Kaira Yadav,Female,27,02-02-2024,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,50,150,0,150,UPI,2024-02
+MLPT00514,Ayush Verma,Male,10,02-02-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2024-02
+MLPT00515,Heena Kumari,Female,15,02-02-2024,Vikas Puri,Dr. Karan,Filling,No,No,First Visit,Filling,717,0,0,0,0,717,0,717,UPI,2024-02
+MLPT00516,Advait Singh,Male,76,02-02-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2024-02
+MLPT00517,Advait Singh,Male,44,03-02-2024,Subhash Nagar,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,526,0,0,0,0,526,0,526,Cash,2024-02
+MLPT00518,Sahil Gupta,Male,58,03-02-2024,Tilak Nagar,Dr. Karan,Cleaning,No,Yes,First Visit,Cleaning,631,0,0,0,0,631,0,631,UPI,2024-02
+MLPT00519,Jagdish Prasad,Male,33,03-02-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2024-02
+MLPT00520,Advait Singh,Male,56,05-02-2024,Vikas Puri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Cash,2024-02
+MLPT00521,Siya Verma,Female,69,05-02-2024,Rajouri Garden,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1644,0,0,0,0,1644,0,1644,Cash,2024-02
+MLPT00522,Narendra Pal,Male,70,06-02-2024,Chander Vihar,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Online Transfer,2024-02
+MLPT00523,Charu Devi,Female,12,07-02-2024,Punjabi Bagh,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-02
+MLPT00524,Samar Patel,Male,20,08-02-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-02
+MLPT00525,Kaira Yadav,Female,80,08-02-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-02
+MLPT00526,Zeeshan Khan,Male,38,08-02-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-02
+MLPT00527,Ishaan Chauhan,Male,15,08-02-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2024-02
+MLPT00528,Gia Patel,Female,56,09-02-2024,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-02
+MLPT00529,Parth Patel,Male,20,09-02-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-02
+MLPT00530,Hansika Kumar,Female,73,10-02-2024,Hari Nagar,Dr. Kajal,Bleaching,No,Yes,Referral,Bleaching,1236,0,0,0,0,1236,0,1236,Card,2024-02
+MLPT00531,Chetan Sharma,Male,55,10-02-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2024-02
+MLPT00532,Zeeshan Khan,Male,70,11-02-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-02
+MLPT00533,Urvi Sharma,Female,58,12-02-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-02
+MLPT00534,Vandana Gupta,Female,9,12-02-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-02
+MLPT00535,Avani Yadav,Female,50,13-02-2024,Tilak Nagar,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,80,120,0,120,Cash,2024-02
+MLPT00536,Hitesh Gupta,Male,9,13-02-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Card,2024-02
+MLPT00537,Akshat Kumar,Male,35,13-02-2024,Vikas Puri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,80,120,0,120,Cash,2024-02
+MLPT00538,Yash Jain,Male,57,15-02-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Card,2024-02
+MLPT00539,Naina Gupta,Female,18,16-02-2024,Uttam Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-02
+MLPT00540,Raghav Singh,Male,39,17-02-2024,Dwarka,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-02
+MLPT00541,Zeeshan Khan,Male,9,19-02-2024,Tilak Nagar,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,411,0,0,0,0,411,0,411,Card,2024-02
+MLPT00542,Aarav Sharma,Male,14,19-02-2024,Tilak Nagar,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1451,0,0,0,300,1151,0,1151,Online Transfer,2024-02
+MLPT00543,Jatin Kumar,Male,52,20-02-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-02
+MLPT00544,Hansika Kumar,Female,77,20-02-2024,Janakpuri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2024-02
+MLPT00545,Manav Jain,Male,11,21-02-2024,Rajouri Garden,Dr. Kajal,Braces,No,Yes,First Visit,Braces,14395,0,0,4020,0,14395,0,10375,UPI,2024-02
+MLPT00546,Shalini Jain,Female,23,22-02-2024,Janakpuri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-02
+MLPT00547,Lakshay Sharma,Male,72,23-02-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2024-02
+MLPT00548,Narendra Pal,Male,28,23-02-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-02
+MLPT00549,Manav Jain,Male,62,24-02-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2024-02
+MLPT00550,Hansika Kumar,Female,46,24-02-2024,Tilak Nagar,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,938,0,0,0,0,938,0,938,Card,2024-02
+MLPT00551,Pawan Kumar,Male,59,26-02-2024,Uttam Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-02
+MLPT00552,Uday Singh,Male,38,27-02-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-02
+MLPT00553,Lata Sharma,Female,50,27-02-2024,Punjabi Bagh,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-02
+MLPT00554,Hansika Kumar,Female,65,27-02-2024,Kirti Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Online Transfer,2024-02
+MLPT00555,Girish Yadav,Male,68,28-02-2024,Tilak Nagar,Dr. Karan,Crown,No,Yes,Referral,Crown,2985,0,0,830,0,2985,0,2155,Online Transfer,2024-02
+MLPT00556,Heena Kumari,Female,26,28-02-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-02
+MLPT00557,Aradhya Verma,Female,26,29-02-2024,Tilak Nagar,Dr. Kajal,Implants,No,Yes,First Visit,Implants,28247,0,0,5940,300,27947,0,22007,Card,2024-02
+MLPT00558,Aditi Sharma,Female,64,01-03-2024,Vikas Puri,Dr. Kajal,Implants,No,Yes,First Visit,Implants,21611,0,0,5700,0,21611,0,15911,UPI,2024-03
+MLPT00559,Diya Sharma,Female,40,02-03-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-03
+MLPT00560,Zeeshan Khan,Male,79,02-03-2024,Janakpuri,Dr. Kajal,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,UPI,2024-03
+MLPT00561,Om Prakash,Male,16,04-03-2024,Chander Vihar,Dr. Kajal,Bleaching,No,No,First Visit,Bleaching,1611,0,0,0,0,1231,380,1231,Cash,2024-03
+MLPT00562,Misha Sharma,Female,70,04-03-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2024-03
+MLPT00563,Ishita Singh,Female,20,05-03-2024,Rajouri Garden,Dr. Kajal,Braces,Yes,Yes,First Visit,Braces,14063,0,0,3270,0,14063,0,10793,Cash,2024-03
+MLPT00564,Chetan Sharma,Male,49,05-03-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-03
+MLPT00565,Ronit Sharma,Male,16,06-03-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-03
+MLPT00566,Kabir Singh,Male,49,07-03-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,UPI,2024-03
+MLPT00567,Bhavya Jain,Female,11,07-03-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-03
+MLPT00568,Narendra Pal,Male,61,07-03-2024,Vikas Puri,Dr. Kajal,Braces,No,No,Referral,Braces,16881,0,0,4890,0,16881,0,11991,UPI,2024-03
+MLPT00569,Dinesh Verma,Male,62,08-03-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2024-03
+MLPT00570,Heena Kumari,Female,33,08-03-2024,Chander Vihar,Dr. Kajal,Braces,No,Yes,First Visit,Braces,12169,0,0,2960,0,8206,3963,5246,Cash,2024-03
+MLPT00571,Rakesh Sharma,Male,38,08-03-2024,Tilak Nagar,Dr. Karan,OPD,Yes,No,Referral,OPD,0,0,0,0,0,0,0,0,UPI,2024-03
+MLPT00572,Vivaan Sharma,Male,51,09-03-2024,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-03
+MLPT00573,Zeeshan Khan,Male,21,11-03-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,60,90,0,90,Card,2024-03
+MLPT00574,Advait Singh,Male,69,11-03-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-03
+MLPT00575,Siya Verma,Female,80,11-03-2024,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2024-03
+MLPT00576,Megha Gupta,Female,57,15-03-2024,Vikas Puri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Cash,2024-03
+MLPT00577,Lata Sharma,Female,56,15-03-2024,Chander Vihar,Dr. Kajal,Implants,No,No,First Visit,Implants,22880,0,0,7010,0,22880,0,15870,Card,2024-03
+MLPT00578,Shalini Jain,Female,32,18-03-2024,Tilak Nagar,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Online Transfer,2024-03
+MLPT00579,Rishi Yadav,Male,55,18-03-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-03
+MLPT00580,Anaya Gupta,Female,26,21-03-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,UPI,2024-03
+MLPT00581,Kajal Singh,Female,34,21-03-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-03
+MLPT00582,Ronit Sharma,Male,37,22-03-2024,Hari Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-03
+MLPT00583,Tarun Kumar,Male,70,22-03-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-03
+MLPT00584,Yash Jain,Male,33,22-03-2024,Tilak Nagar,Dr. Karan,OPD,Yes,No,Referral,OPD,0,0,0,0,0,0,0,0,Cash,2024-03
+MLPT00585,Raghav Singh,Male,63,25-03-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-03
+MLPT00586,Narendra Pal,Male,13,25-03-2024,Janakpuri,Dr. Kajal,Braces,Yes,Yes,First Visit,Braces,17179,0,0,3070,0,17179,0,14109,UPI,2024-03
+MLPT00587,Tanu Verma,Female,11,25-03-2024,Vikas Puri,Dr. Kajal,Braces,Yes,Yes,Walk-in,Braces,17434,0,0,4090,0,17434,0,13344,Cash,2024-03
+MLPT00588,Ankit Kumar,Male,72,28-03-2024,Vikas Puri,Dr. Karan,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,Card,2024-03
+MLPT00589,Om Prakash,Male,70,28-03-2024,Vikas Puri,Dr. Kajal,Braces,Yes,Yes,First Visit,Braces,15462,0,0,2550,0,12496,2966,9946,UPI,2024-03
+MLPT00590,Saisha Singh,Female,8,29-03-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-03
+MLPT00591,Megha Gupta,Female,46,30-03-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,60,90,0,90,Online Transfer,2024-03
+MLPT00592,Pihu Patel,Female,59,30-03-2024,Rajouri Garden,Dr. Kajal,OPD,Yes,No,Walk-in,OPD,0,0,0,0,0,0,0,0,UPI,2024-03
+MLPT00593,Yash Jain,Male,57,31-03-2024,Rajouri Garden,Dr. Karan,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-03
+MLPT00594,Saisha Singh,Female,39,02-04-2024,Janakpuri,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,525,0,0,0,210,315,0,315,Card,2024-04
+MLPT00595,Aradhya Verma,Female,15,02-04-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-04
+MLPT00596,Eesha Gupta,Female,54,03-04-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-04
+MLPT00597,Heena Kumari,Female,59,03-04-2024,Paschim Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-04
+MLPT00598,Arnav Gupta,Male,55,04-04-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,Cash,2024-04
+MLPT00599,Bhavya Jain,Female,22,05-04-2024,Punjabi Bagh,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,Cash,2024-04
+MLPT00600,Tanay Kumar,Male,76,08-04-2024,Rajouri Garden,Dr. Karan,Crown,No,Yes,Referral,Crown,2328,0,0,700,0,2328,0,1628,UPI,2024-04
+MLPT00601,Ronit Sharma,Male,69,09-04-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,100,250,0,250,Cash,2024-04
+MLPT00602,Vandana Gupta,Female,29,10-04-2024,Chander Vihar,Dr. Karan,Cleaning,No,Yes,First Visit,Cleaning,677,0,0,0,0,677,0,677,Card,2024-04
+MLPT00603,Diya Sharma,Female,24,10-04-2024,Uttam Nagar,Dr. Kajal,Cleaning,No,No,First Visit,Cleaning,696,0,0,0,278.4,417.6,0,417.6,UPI,2024-04
+MLPT00604,Ishita Singh,Female,17,11-04-2024,Vikas Puri,Dr. Karan,Cleaning,No,Yes,First Visit,Cleaning,536,0,0,0,0,536,0,536,UPI,2024-04
+MLPT00605,Pranav Kumar,Male,31,12-04-2024,Chander Vihar,Dr. Kajal,Bleaching,No,Yes,Referral,Bleaching,1567,0,0,0,0,1287,280,1287,Online Transfer,2024-04
+MLPT00606,Sakshi Yadav,Female,73,12-04-2024,Tilak Nagar,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-04
+MLPT00607,Gia Patel,Female,53,13-04-2024,Janakpuri,Dr. Karan,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Card,2024-04
+MLPT00608,Kishan Lal,Male,17,17-04-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-04
+MLPT00609,Aradhya Verma,Female,57,17-04-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-04
+MLPT00610,Ishaan Chauhan,Male,15,18-04-2024,Subhash Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2024-04
+MLPT00611,Yash Jain,Male,10,19-04-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-04
+MLPT00612,Naman Gupta,Male,27,20-04-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-04
+MLPT00613,Raghav Singh,Male,51,20-04-2024,Vikas Puri,Dr. Kajal,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,Cash,2024-04
+MLPT00614,Gia Patel,Female,21,21-04-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,60,90,0,90,Cash,2024-04
+MLPT00615,Ishita Singh,Female,74,22-04-2024,Chander Vihar,Dr. Kajal,Braces,No,Yes,First Visit,Braces,14280,0,0,3030,0,14280,0,11250,Card,2024-04
+MLPT00616,Tanisha Jain,Female,67,22-04-2024,Uttam Nagar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Cash,2024-04
+MLPT00617,Aryan Patel,Male,60,22-04-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,60,90,0,90,Card,2024-04
+MLPT00618,Bhavya Jain,Female,36,23-04-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,60,90,0,90,Card,2024-04
+MLPT00619,Kiara Jain,Female,48,23-04-2024,Chander Vihar,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-04
+MLPT00620,Ayush Verma,Male,37,25-04-2024,Vikas Puri,Dr. Kajal,Implants,No,No,First Visit,Implants,23141,0,0,4960,0,23141,0,18181,UPI,2024-04
+MLPT00621,Anaya Gupta,Female,58,26-04-2024,Chander Vihar,Dr. Karan,Cleaning,Yes,Yes,First Visit,Cleaning,672,0,0,0,0,672,0,672,Cash,2024-04
+MLPT00622,Zeeshan Khan,Male,68,26-04-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,Card,2024-04
+MLPT00623,Lakshay Sharma,Male,72,26-04-2024,Chander Vihar,Dr. Kajal,Cleaning,No,No,First Visit,Cleaning,500,0,0,0,200,300,0,300,Cash,2024-04
+MLPT00624,Lakshay Sharma,Male,9,27-04-2024,Vikas Puri,Dr. Kajal,Bleaching,Yes,Yes,First Visit,Bleaching,1444,0,0,0,0,1444,0,1444,Card,2024-04
+MLPT00625,Diya Sharma,Female,56,27-04-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-04
+MLPT00626,Tarun Kumar,Male,75,29-04-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-04
+MLPT00627,Poonam Devi,Female,54,30-04-2024,Subhash Nagar,Dr. Karan,Crown,Yes,No,First Visit,Crown,3569,0,0,1200,100,2886,583,1686,UPI,2024-04
+MLPT00628,Om Prakash,Male,37,01-05-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,UPI,2024-05
+MLPT00629,Bhavya Jain,Female,52,01-05-2024,Dwarka,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-05
+MLPT00630,Aarav Sharma,Male,62,02-05-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-05
+MLPT00631,Manoj Kumar,Male,13,04-05-2024,Tilak Nagar,Dr. Kajal,Bleaching,Yes,Yes,First Visit,Bleaching,1774,0,0,0,0,1774,0,1774,Card,2024-05
+MLPT00632,Suhani Yadav,Female,6,06-05-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-05
+MLPT00633,Aryan Patel,Male,68,07-05-2024,Chander Vihar,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Cash,2024-05
+MLPT00634,Gia Patel,Female,54,08-05-2024,Rajouri Garden,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-05
+MLPT00635,Rishi Yadav,Male,9,09-05-2024,Shivaji Enclave,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,672,0,0,0,0,672,0,672,UPI,2024-05
+MLPT00636,Aisha Khan,Female,22,10-05-2024,Vikas Puri,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-05
+MLPT00637,Avani Yadav,Female,73,11-05-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-05
+MLPT00638,Siya Verma,Female,18,11-05-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-05
+MLPT00639,Omkar Singh,Male,48,13-05-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,50,300,0,300,UPI,2024-05
+MLPT00640,Kaira Yadav,Female,64,13-05-2024,Tilak Nagar,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,601,0,0,0,240.4,360.6,0,360.6,UPI,2024-05
+MLPT00641,Suhani Yadav,Female,40,13-05-2024,Vikas Puri,Dr. Karan,Cleaning,No,Yes,First Visit,Cleaning,618,0,0,0,0,618,0,618,UPI,2024-05
+MLPT00642,Diya Sharma,Female,63,14-05-2024,Rajouri Garden,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-05
+MLPT00643,Naina Gupta,Female,55,16-05-2024,Chander Vihar,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Cash,2024-05
+MLPT00644,Reyansh Verma,Male,20,16-05-2024,Tilak Nagar,Dr. Kajal,Bleaching,No,No,First Visit,Bleaching,1324,0,0,0,300,1024,0,1024,Cash,2024-05
+MLPT00645,Nikita Sharma,Female,74,18-05-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,60,90,0,90,Online Transfer,2024-05
+MLPT00646,Heena Kumari,Female,29,18-05-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,60,90,0,90,UPI,2024-05
+MLPT00647,Harsh Malik,Male,20,19-05-2024,Tilak Nagar,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,676,0,0,0,0,676,0,676,Cash,2024-05
+MLPT00648,Lata Sharma,Female,52,20-05-2024,Vikas Puri,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1677,0,0,0,0,1677,0,1677,UPI,2024-05
+MLPT00649,Gagan Bansal,Male,62,21-05-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-05
+MLPT00650,Manav Jain,Male,33,21-05-2024,Tilak Nagar,Dr. Kajal,RCT,No,Yes,First Visit,RCT,3459,0,0,0,0,3459,0,3459,UPI,2024-05
+MLPT00651,Heena Kumari,Female,43,21-05-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Online Transfer,2024-05
+MLPT00652,Anaya Gupta,Female,41,22-05-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-05
+MLPT00653,Shalini Jain,Female,47,23-05-2024,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-05
+MLPT00654,Kajal Singh,Female,63,25-05-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2024-05
+MLPT00655,Ishita Singh,Female,15,25-05-2024,Hari Nagar,Dr. Kajal,OPD,Yes,No,Walk-in,OPD,0,0,0,0,0,0,0,0,Cash,2024-05
+MLPT00656,Poonam Devi,Female,60,29-05-2024,Vikas Puri,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Online Transfer,2024-05
+MLPT00657,Girish Yadav,Male,19,29-05-2024,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2024-05
+MLPT00658,Raghav Singh,Male,5,30-05-2024,Vikas Puri,Dr. Kajal,Braces,No,No,First Visit,Braces,19529,0,0,4950,1500,18029,0,13079,UPI,2024-05
+MLPT00659,Reyansh Verma,Male,19,30-05-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-05
+MLPT00660,Hitesh Gupta,Male,20,30-05-2024,Paschim Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-05
+MLPT00661,Hitesh Gupta,Male,57,03-06-2024,Vikas Puri,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-06
+MLPT00662,Naman Gupta,Male,19,03-06-2024,Vikas Puri,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-06
+MLPT00663,Shalini Jain,Female,48,04-06-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2024-06
+MLPT00664,Poonam Devi,Female,32,05-06-2024,Paschim Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2024-06
+MLPT00665,Samar Patel,Male,21,06-06-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-06
+MLPT00666,Samar Patel,Male,43,07-06-2024,Chander Vihar,Dr. Karan,Filling,No,Yes,Walk-in,Filling,691,0,0,0,0,691,0,691,Card,2024-06
+MLPT00667,Sahil Gupta,Male,42,07-06-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-06
+MLPT00668,Saisha Singh,Female,12,10-06-2024,Vikas Puri,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,903,0,0,0,361.2,541.8,0,541.8,Online Transfer,2024-06
+MLPT00669,Sandeep Gupta,Male,9,11-06-2024,Janakpuri,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,416,0,0,0,0,416,0,416,Cash,2024-06
+MLPT00670,Advait Singh,Male,16,12-06-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Online Transfer,2024-06
+MLPT00671,Hansika Kumar,Female,59,13-06-2024,Hari Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-06
+MLPT00672,Ayush Verma,Male,75,13-06-2024,Tilak Nagar,Dr. Karan,Crown,No,No,Referral,Crown,2193,0,0,700,0,2193,0,1493,UPI,2024-06
+MLPT00673,Ritu Singh,Female,59,14-06-2024,Tilak Nagar,Dr. Karan,Extraction,No,No,First Visit,Extraction,675,0,0,0,0,675,0,675,Cash,2024-06
+MLPT00674,Sakshi Yadav,Female,45,14-06-2024,Uttam Nagar,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Cash,2024-06
+MLPT00675,Pawan Kumar,Male,58,17-06-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-06
+MLPT00676,Rakesh Sharma,Male,16,18-06-2024,Vikas Puri,Dr. Kajal,Implants,Yes,Yes,First Visit,Implants,24481,0,0,6350,1000,23481,0,17131,Cash,2024-06
+MLPT00677,Ritu Singh,Female,74,19-06-2024,Uttam Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-06
+MLPT00678,Bhavya Jain,Female,41,20-06-2024,Hari Nagar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,80,120,0,120,Cash,2024-06
+MLPT00679,Anika Patel,Female,7,20-06-2024,Vikas Puri,Dr. Kajal,Bleaching,Yes,Yes,First Visit,Bleaching,1443,0,0,0,0,1443,0,1443,Cash,2024-06
+MLPT00680,Dhruv Jain,Male,33,21-06-2024,Tilak Nagar,Dr. Kajal,Cleaning,No,Yes,Walk-in,Cleaning,622,0,0,0,248.8,373.2,0,373.2,UPI,2024-06
+MLPT00681,Pranav Kumar,Male,55,21-06-2024,Uttam Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-06
+MLPT00682,Suhani Yadav,Female,14,22-06-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-06
+MLPT00683,Parth Patel,Male,30,22-06-2024,Punjabi Bagh,Dr. Karan,Filling,No,Yes,First Visit,Filling,802,0,0,0,0,802,0,802,UPI,2024-06
+MLPT00684,Gia Patel,Female,55,26-06-2024,Vikas Puri,Dr. Karan,Cleaning,Yes,Yes,First Visit,Cleaning,477,0,0,0,0,477,0,477,Cash,2024-06
+MLPT00685,Advait Singh,Male,33,28-06-2024,Chander Vihar,Dr. Kajal,Braces,Yes,Yes,First Visit,Braces,17068,0,0,4380,0,11247,5821,6867,UPI,2024-06
+MLPT00686,Kiara Jain,Female,37,28-06-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2024-06
+MLPT00687,Eesha Gupta,Female,5,29-06-2024,Paschim Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-06
+MLPT00688,Charu Devi,Female,73,01-07-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-07
+MLPT00689,Heena Kumari,Female,41,01-07-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,UPI,2024-07
+MLPT00690,Girish Yadav,Male,80,03-07-2024,Chander Vihar,Dr. Karan,Extraction,Yes,Yes,First Visit,Extraction,929,0,0,0,0,929,0,929,Online Transfer,2024-07
+MLPT00691,Tanisha Jain,Female,74,03-07-2024,Rajouri Garden,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-07
+MLPT00692,Avani Yadav,Female,62,04-07-2024,Dwarka,Dr. Kajal,Braces,No,No,First Visit,Braces,12324,0,0,2110,0,12324,0,10214,UPI,2024-07
+MLPT00693,Akshat Kumar,Male,72,05-07-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-07
+MLPT00694,Akshat Kumar,Male,79,05-07-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2024-07
+MLPT00695,Uday Singh,Male,56,08-07-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,60,90,0,90,Cash,2024-07
+MLPT00696,Siya Verma,Female,64,09-07-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-07
+MLPT00697,Akshara Singh,Female,31,10-07-2024,Janakpuri,Dr. Kajal,RCT,Yes,Yes,First Visit,RCT,3853,0,0,0,0,3853,0,3853,Cash,2024-07
+MLPT00698,Uma Sharma,Female,18,11-07-2024,Chander Vihar,Dr. Kajal,Implants,No,Yes,Referral,Implants,20844,0,0,5760,0,20844,0,15084,Card,2024-07
+MLPT00699,Ayush Verma,Male,19,11-07-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-07
+MLPT00700,Aryan Patel,Male,45,12-07-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-07
+MLPT00701,Rishi Yadav,Male,39,15-07-2024,Uttam Nagar,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Card,2024-07
+MLPT00702,Vivaan Sharma,Male,13,15-07-2024,Hari Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-07
+MLPT00703,Dinesh Verma,Male,12,16-07-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2024-07
+MLPT00704,Ayush Verma,Male,68,17-07-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,Yes,Yes,Referral,OPD + X-Ray,0,150,0,0,0,150,0,150,Cash,2024-07
+MLPT00705,Rakesh Sharma,Male,9,19-07-2024,Janakpuri,Dr. Karan,Filling,No,Yes,First Visit,Filling,676,0,0,0,0,676,0,676,Card,2024-07
+MLPT00706,Advait Singh,Male,49,19-07-2024,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-07
+MLPT00707,Aditi Sharma,Female,16,20-07-2024,Vikas Puri,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Cash,2024-07
+MLPT00708,Pawan Kumar,Male,43,22-07-2024,Vikas Puri,Dr. Kajal,Braces,No,Yes,First Visit,Braces,12544,0,0,3020,750,11794,0,8774,Cash,2024-07
+MLPT00709,Yash Jain,Male,36,22-07-2024,Kirti Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2024-07
+MLPT00710,Pranav Kumar,Male,32,24-07-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2024-07
+MLPT00711,Reyansh Verma,Male,59,25-07-2024,Vikas Puri,Dr. Kajal,Bleaching,No,Yes,First Visit,Bleaching,1478,0,0,0,100,1378,0,1378,Cash,2024-07
+MLPT00712,Heena Kumari,Female,71,25-07-2024,Rajouri Garden,Dr. Kajal,Implants,Yes,Yes,Referral,Implants,18259,0,0,5070,750,17509,0,12439,UPI,2024-07
+MLPT00713,Aditi Sharma,Female,5,26-07-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-07
+MLPT00714,Bharat Singh,Male,54,26-07-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2024-07
+MLPT00715,Ishaan Chauhan,Male,36,27-07-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,Yes,Yes,Referral,OPD + X-Ray,0,150,0,0,60,90,0,90,Online Transfer,2024-07
+MLPT00716,Omkar Singh,Male,55,27-07-2024,Vikas Puri,Dr. Kajal,RCT,Yes,No,First Visit,RCT,2833,0,0,0,200,2633,0,2633,Cash,2024-07
+MLPT00717,Tanisha Jain,Female,56,28-07-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2024-07
+MLPT00718,Bharat Singh,Male,58,02-08-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-08
+MLPT00719,Hansika Kumar,Female,45,02-08-2024,Chander Vihar,Dr. Kajal,Implants,No,No,First Visit,Implants,29029,0,0,8770,0,29029,0,20259,Card,2024-08
+MLPT00720,Diya Sharma,Female,57,03-08-2024,Tilak Nagar,Dr. Kajal,Braces,No,No,First Visit,Braces,17551,0,0,2660,0,12795,4756,10135,UPI,2024-08
+MLPT00721,Jagdish Prasad,Male,41,03-08-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-08
+MLPT00722,Kajal Singh,Female,7,04-08-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,Yes,Yes,Referral,OPD + X-Ray,0,150,0,0,60,90,0,90,Cash,2024-08
+MLPT00723,Samar Patel,Male,72,05-08-2024,Chander Vihar,Dr. Kajal,Braces,No,Yes,Referral,Braces,16334,0,0,2670,0,12645,3689,9975,Card,2024-08
+MLPT00724,Rishi Yadav,Male,49,05-08-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-08
+MLPT00725,Manav Jain,Male,27,06-08-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-08
+MLPT00726,Ankit Kumar,Male,6,06-08-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,Cash,2024-08
+MLPT00727,Akshara Singh,Female,51,07-08-2024,Subhash Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-08
+MLPT00728,Raghav Singh,Male,28,07-08-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-08
+MLPT00729,Anika Patel,Female,58,08-08-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-08
+MLPT00730,Rakesh Sharma,Male,75,08-08-2024,Uttam Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-08
+MLPT00731,Suhani Yadav,Female,35,08-08-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-08
+MLPT00732,Kabir Singh,Male,51,12-08-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-08
+MLPT00733,Pranav Kumar,Male,50,12-08-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,Yes,Yes,Referral,OPD + X-Ray,0,150,0,0,60,90,0,90,Online Transfer,2024-08
+MLPT00734,Saisha Singh,Female,37,15-08-2024,Vikas Puri,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2024-08
+MLPT00735,Anika Patel,Female,67,17-08-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Online Transfer,2024-08
+MLPT00736,Urvi Sharma,Female,47,17-08-2024,Uttam Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-08
+MLPT00737,Devansh Yadav,Male,7,19-08-2024,Tilak Nagar,Dr. Karan,Cleaning,No,No,First Visit,Cleaning,593,0,0,0,0,593,0,593,Cash,2024-08
+MLPT00738,Arnav Gupta,Male,73,20-08-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-08
+MLPT00739,Eesha Gupta,Female,56,22-08-2024,Vikas Puri,Dr. Karan,Extraction,No,No,First Visit,Extraction,808,0,0,0,0,808,0,808,Online Transfer,2024-08
+MLPT00740,Om Prakash,Male,62,22-08-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,50,100,0,100,Cash,2024-08
+MLPT00741,Kiara Jain,Female,75,23-08-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,50,150,0,150,Cash,2024-08
+MLPT00742,Ronit Sharma,Male,32,23-08-2024,Tilak Nagar,Dr. Karan,Crown,No,Yes,Referral,Crown,2605,0,0,760,0,2605,0,1845,Cash,2024-08
+MLPT00743,Pranav Kumar,Male,67,23-08-2024,Vikas Puri,Dr. Karan,Cleaning,No,Yes,First Visit,Cleaning,524,0,0,0,0,524,0,524,UPI,2024-08
+MLPT00744,Ankit Kumar,Male,57,24-08-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-08
+MLPT00745,Pihu Patel,Female,77,26-08-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,Card,2024-08
+MLPT00746,Vanya Gupta,Female,36,26-08-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-08
+MLPT00747,Jagdish Prasad,Male,80,26-08-2024,Vikas Puri,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Online Transfer,2024-08
+MLPT00748,Samar Patel,Male,57,27-08-2024,Vikas Puri,Dr. Karan,Filling,No,No,Referral,Filling,966,0,0,0,0,966,0,966,UPI,2024-08
+MLPT00749,Aditi Sharma,Female,9,27-08-2024,Vikas Puri,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-08
+MLPT00750,Reyansh Verma,Male,43,28-08-2024,Vikas Puri,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-08
+MLPT00751,Akshat Kumar,Male,23,28-08-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-08
+MLPT00752,Heena Kumari,Female,75,30-08-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-08
+MLPT00753,Gagan Bansal,Male,19,30-08-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-08
+MLPT00754,Vivaan Sharma,Male,35,31-08-2024,Hari Nagar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,50,150,0,150,Card,2024-08
+MLPT00755,Dinesh Verma,Male,20,31-08-2024,Fateh Nagar,Dr. Kajal,Implants,No,Yes,First Visit,Implants,28808,0,0,6360,0,19607,9201,13247,Cash,2024-08
+MLPT00756,Samar Patel,Male,55,02-09-2024,Punjabi Bagh,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2024-09
+MLPT00757,Charu Devi,Female,72,03-09-2024,Chander Vihar,Dr. Karan,Crown,No,Yes,First Visit,Crown,2437,0,0,890,0,2437,0,1547,Card,2024-09
+MLPT00758,Akshara Singh,Female,75,03-09-2024,Tilak Nagar,Dr. Kajal,Braces,No,No,First Visit,Braces,17468,0,0,3300,0,10577,6891,7277,UPI,2024-09
+MLPT00759,Heena Kumari,Female,79,04-09-2024,Tilak Nagar,Dr. Karan,Cleaning,No,No,First Visit,Cleaning,655,0,0,0,262,393,0,393,Online Transfer,2024-09
+MLPT00760,Kajal Singh,Female,40,04-09-2024,Janakpuri,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-09
+MLPT00761,Vivaan Sharma,Male,11,04-09-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,50,150,0,150,UPI,2024-09
+MLPT00762,Vanya Gupta,Female,9,05-09-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-09
+MLPT00763,Manav Jain,Male,18,05-09-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-09
+MLPT00764,Hitesh Gupta,Male,29,06-09-2024,Tilak Nagar,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,626,0,0,0,0,626,0,626,Cash,2024-09
+MLPT00765,Kaira Yadav,Female,10,07-09-2024,Punjabi Bagh,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-09
+MLPT00766,Hitesh Gupta,Male,24,10-09-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-09
+MLPT00767,Ritu Singh,Female,31,11-09-2024,Tilak Nagar,Dr. Kajal,Braces,No,No,Walk-in,Braces,15721,0,0,4420,0,13249,2472,8829,Cash,2024-09
+MLPT00768,Bhavya Jain,Female,55,12-09-2024,Tilak Nagar,Dr. Karan,Cleaning,No,Yes,First Visit,Cleaning,434,0,0,0,173.6,260.4,0,260.4,Cash,2024-09
+MLPT00769,Vandana Gupta,Female,72,14-09-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-09
+MLPT00770,Manav Jain,Male,24,14-09-2024,Tilak Nagar,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Card,2024-09
+MLPT00771,Aryan Patel,Male,27,17-09-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-09
+MLPT00772,Urvi Sharma,Female,11,17-09-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Online Transfer,2024-09
+MLPT00773,Tanay Kumar,Male,17,18-09-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,50,150,0,150,Cash,2024-09
+MLPT00774,Kiara Jain,Female,46,18-09-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-09
+MLPT00775,Anika Patel,Female,15,19-09-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-09
+MLPT00776,Devansh Yadav,Male,64,19-09-2024,Fateh Nagar,Dr. Karan,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Online Transfer,2024-09
+MLPT00777,Suhani Yadav,Female,8,20-09-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2024-09
+MLPT00778,Tarun Kumar,Male,51,20-09-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-09
+MLPT00779,Aisha Khan,Female,47,21-09-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,UPI,2024-09
+MLPT00780,Girish Yadav,Male,59,21-09-2024,Janakpuri,Dr. Karan,Crown,Yes,Yes,First Visit,Crown,3361,0,0,1120,0,3361,0,2241,Card,2024-09
+MLPT00781,Jia Verma,Female,49,23-09-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2024-09
+MLPT00782,Sahil Gupta,Male,23,26-09-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,UPI,2024-09
+MLPT00783,Megha Gupta,Female,34,01-10-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-10
+MLPT00784,Tanay Kumar,Male,37,02-10-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2024-10
+MLPT00785,Gia Patel,Female,35,03-10-2024,Shivaji Enclave,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-10
+MLPT00786,Gagan Bansal,Male,60,03-10-2024,Vikas Puri,Dr. Karan,Extraction,No,Yes,First Visit,Extraction,795,0,0,0,50,745,0,745,UPI,2024-10
+MLPT00787,Shalini Jain,Female,67,03-10-2024,Uttam Nagar,Dr. Karan,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Cash,2024-10
+MLPT00788,Riya Kumar,Female,79,04-10-2024,Tilak Nagar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-10
+MLPT00789,Naman Gupta,Male,42,07-10-2024,Vikas Puri,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-10
+MLPT00790,Tanay Kumar,Male,49,07-10-2024,Uttam Nagar,Dr. Karan,OPD,No,No,Walk-in,OPD,0,0,200,0,80,120,0,120,UPI,2024-10
+MLPT00791,Tanu Verma,Female,17,08-10-2024,Tilak Nagar,Dr. Karan,Filling,No,Yes,First Visit,Filling,1139,0,0,0,0,1139,0,1139,UPI,2024-10
+MLPT00792,Dinesh Verma,Male,8,09-10-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2024-10
+MLPT00793,Harsh Malik,Male,41,09-10-2024,Vikas Puri,Dr. Kajal,Implants,No,Yes,First Visit,Implants,19657,0,0,6190,500,19157,0,12967,Online Transfer,2024-10
+MLPT00794,Devansh Yadav,Male,32,10-10-2024,Vikas Puri,Dr. Kajal,Implants,No,Yes,First Visit,Implants,22519,0,0,4740,0,22519,0,17779,UPI,2024-10
+MLPT00795,Pihu Patel,Female,66,11-10-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-10
+MLPT00796,Pihu Patel,Female,47,11-10-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-10
+MLPT00797,Tanu Verma,Female,50,11-10-2024,Janakpuri,Dr. Kajal,Braces,No,No,Walk-in,Braces,14377,0,0,3090,1000,13377,0,10287,UPI,2024-10
+MLPT00798,Jatin Kumar,Male,25,15-10-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-10
+MLPT00799,Lata Sharma,Female,13,17-10-2024,Uttam Nagar,Dr. Kajal,Implants,No,No,Referral,Implants,20766,0,0,5010,0,20766,0,15756,UPI,2024-10
+MLPT00800,Lakshay Sharma,Male,7,18-10-2024,Chander Vihar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2024-10
+MLPT00801,Hitesh Gupta,Male,52,18-10-2024,Vikas Puri,Dr. Karan,Crown,Yes,No,First Visit,Crown,2666,0,0,960,0,2666,0,1706,Card,2024-10
+MLPT00802,Omkar Singh,Male,10,21-10-2024,Dwarka,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-10
+MLPT00803,Lakshay Sharma,Male,80,22-10-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-10
+MLPT00804,Tanisha Jain,Female,53,22-10-2024,Tilak Nagar,Dr. Kajal,Braces,Yes,No,First Visit,Braces,17467,0,0,4700,1000,16467,0,11767,Cash,2024-10
+MLPT00805,Lakshay Sharma,Male,41,23-10-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-10
+MLPT00806,Ronit Sharma,Male,5,23-10-2024,Chander Vihar,Dr. Karan,OPD,No,No,Referral,OPD,0,0,200,0,80,120,0,120,Cash,2024-10
+MLPT00807,Suhani Yadav,Female,49,23-10-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Cash,2024-10
+MLPT00808,Sakshi Yadav,Female,52,25-10-2024,Hari Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-10
+MLPT00809,Hitesh Gupta,Male,54,25-10-2024,Chander Vihar,Dr. Kajal,Bleaching,Yes,Yes,First Visit,Bleaching,1309,0,0,0,500,809,0,809,Cash,2024-10
+MLPT00810,Dhruv Jain,Male,33,26-10-2024,Dwarka,Dr. Kajal,Implants,Yes,Yes,First Visit,Implants,19379,0,0,5310,0,19379,0,14069,UPI,2024-10
+MLPT00811,Naman Gupta,Male,67,26-10-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-10
+MLPT00812,Ayush Verma,Male,36,29-10-2024,Chander Vihar,Dr. Kajal,OPD,Yes,No,Referral,OPD,0,0,0,0,0,0,0,0,UPI,2024-10
+MLPT00813,Bhavya Jain,Female,66,30-10-2024,Tilak Nagar,Dr. Karan,Extraction,No,Yes,Referral,Extraction,975,0,0,0,0,975,0,975,Cash,2024-10
+MLPT00814,Vanya Gupta,Female,13,31-10-2024,Chander Vihar,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,UPI,2024-10
+MLPT00815,Manoj Kumar,Male,37,31-10-2024,Paschim Vihar,Dr. Kajal,Implants,Yes,Yes,First Visit,Implants,25672,0,0,5310,0,25672,0,20362,UPI,2024-10
+MLPT00816,Akshara Singh,Female,34,31-10-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-10
+MLPT00817,Ishaan Chauhan,Male,8,01-11-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-11
+MLPT00818,Pihu Patel,Female,37,04-11-2024,Vikas Puri,Dr. Karan,Filling,No,Yes,First Visit,Filling,979,0,0,0,0,979,0,979,Cash,2024-11
+MLPT00819,Kaira Yadav,Female,9,04-11-2024,Tilak Nagar,Dr. Kajal,RCT,Yes,No,Walk-in,RCT,3164,0,0,0,0,3164,0,3164,Card,2024-11
+MLPT00820,Uma Sharma,Female,78,05-11-2024,Tilak Nagar,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-11
+MLPT00821,Sakshi Yadav,Female,80,06-11-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-11
+MLPT00822,Avani Yadav,Female,45,07-11-2024,Tilak Nagar,Dr. Karan,Filling,No,No,First Visit,Filling,724,0,0,0,0,724,0,724,Card,2024-11
+MLPT00823,Kiara Jain,Female,67,07-11-2024,Rajouri Garden,Dr. Karan,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-11
+MLPT00824,Tanisha Jain,Female,53,08-11-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-11
+MLPT00825,Naina Gupta,Female,9,08-11-2024,Paschim Vihar,Dr. Kajal,OPD + X-Ray,Yes,Yes,Referral,OPD + X-Ray,0,150,0,0,60,90,0,90,Cash,2024-11
+MLPT00826,Ayush Verma,Male,10,09-11-2024,Punjabi Bagh,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,627,0,0,0,0,627,0,627,Card,2024-11
+MLPT00827,Vivaan Sharma,Male,7,13-11-2024,Chander Vihar,Dr. Kajal,RCT,No,Yes,First Visit,RCT,2846,0,0,0,500,2346,0,2346,Cash,2024-11
+MLPT00828,Sandeep Gupta,Male,13,14-11-2024,Punjabi Bagh,Dr. Karan,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,UPI,2024-11
+MLPT00829,Sandeep Gupta,Male,80,14-11-2024,Chander Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-11
+MLPT00830,Parth Patel,Male,59,15-11-2024,Fateh Nagar,Dr. Kajal,Cleaning,Yes,Yes,Referral,Cleaning,646,0,0,0,0,646,0,646,Online Transfer,2024-11
+MLPT00831,Tanay Kumar,Male,47,15-11-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Online Transfer,2024-11
+MLPT00832,Sakshi Yadav,Female,51,16-11-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-11
+MLPT00833,Jatin Kumar,Male,66,16-11-2024,Tilak Nagar,Dr. Karan,Filling,No,Yes,Walk-in,Filling,1014,0,0,0,0,1014,0,1014,Card,2024-11
+MLPT00834,Saisha Singh,Female,18,19-11-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-11
+MLPT00835,Pranav Kumar,Male,50,21-11-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,60,90,0,90,UPI,2024-11
+MLPT00836,Manoj Kumar,Male,31,21-11-2024,Chander Vihar,Dr. Karan,Filling,No,Yes,First Visit,Filling,644,0,0,0,0,644,0,644,Cash,2024-11
+MLPT00837,Lata Sharma,Female,22,21-11-2024,Janakpuri,Dr. Kajal,RCT,Yes,No,First Visit,RCT,2757,0,0,0,0,2757,0,2757,Online Transfer,2024-11
+MLPT00838,Ronit Sharma,Male,63,22-11-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,Walk-in,OPD + X-Ray,0,150,200,0,100,250,0,250,UPI,2024-11
+MLPT00839,Parth Patel,Male,24,23-11-2024,Vikas Puri,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-11
+MLPT00840,Uday Singh,Male,14,23-11-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-11
+MLPT00841,Ishaan Chauhan,Male,24,25-11-2024,Vikas Puri,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Cash,2024-11
+MLPT00842,Omkar Singh,Male,41,25-11-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,Card,2024-11
+MLPT00843,Poonam Devi,Female,64,26-11-2024,Dwarka,Dr. Karan,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,Online Transfer,2024-11
+MLPT00844,Saisha Singh,Female,69,26-11-2024,Tilak Nagar,Dr. Kajal,OPD,Yes,No,Referral,OPD,0,0,0,0,0,0,0,0,UPI,2024-11
+MLPT00845,Aryan Patel,Male,5,27-11-2024,Janakpuri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Cash,2024-11
+MLPT00846,Dinesh Verma,Male,32,28-11-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-11
+MLPT00847,Harsh Malik,Male,18,29-11-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,UPI,2024-11
+MLPT00848,Tanu Verma,Female,34,30-11-2024,Vikas Puri,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-11
+MLPT00849,Saisha Singh,Female,77,01-12-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,50,300,0,300,UPI,2024-12
+MLPT00850,Aradhya Verma,Female,8,02-12-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-12
+MLPT00851,Kiara Jain,Female,30,02-12-2024,Janakpuri,Dr. Kajal,Braces,Yes,No,Referral,Braces,19232,0,0,5690,750,18482,0,12792,UPI,2024-12
+MLPT00852,Tanay Kumar,Male,63,02-12-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-12
+MLPT00853,Parth Patel,Male,15,02-12-2024,Vikas Puri,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-12
+MLPT00854,Poonam Devi,Female,27,02-12-2024,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Online Transfer,2024-12
+MLPT00855,Eesha Gupta,Female,52,02-12-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,50,300,0,300,Card,2024-12
+MLPT00856,Jagdish Prasad,Male,63,02-12-2024,Rajouri Garden,Dr. Kajal,Cleaning,No,No,First Visit,Cleaning,521,0,0,0,100,421,0,421,Card,2024-12
+MLPT00857,Sandeep Gupta,Male,69,02-12-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,Card,2024-12
+MLPT00858,Advait Singh,Male,22,02-12-2024,Vikas Puri,Dr. Kajal,Braces,No,Yes,First Visit,Braces,14092,0,0,4120,0,14092,0,9972,Cash,2024-12
+MLPT00859,Vanya Gupta,Female,59,03-12-2024,Vikas Puri,Dr. Kajal,Implants,No,Yes,Walk-in,Implants,20445,0,0,4890,100,20345,0,15455,Cash,2024-12
+MLPT00860,Manoj Kumar,Male,18,03-12-2024,Vikas Puri,Dr. Kajal,Cleaning,No,No,Referral,Cleaning,497,0,0,0,0,497,0,497,Cash,2024-12
+MLPT00861,Aarav Sharma,Male,5,03-12-2024,Uttam Nagar,Dr. Kajal,OPD,No,No,Walk-in,OPD,0,0,200,0,0,200,0,200,UPI,2024-12
+MLPT00862,Ishita Singh,Female,62,03-12-2024,Paschim Vihar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-12
+MLPT00863,Dhruv Jain,Male,69,03-12-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2024-12
+MLPT00864,Saisha Singh,Female,56,03-12-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2024-12
+MLPT00865,Harsh Malik,Male,19,03-12-2024,Rajouri Garden,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Cash,2024-12
+MLPT00866,Kaira Yadav,Female,54,03-12-2024,Vikas Puri,Dr. Karan,Crown,Yes,Yes,First Visit,Crown,3544,0,0,1450,0,3154,390,1704,Online Transfer,2024-12
+MLPT00867,Gagan Bansal,Male,36,03-12-2024,Vikas Puri,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,Card,2024-12
+MLPT00868,Vivaan Sharma,Male,27,03-12-2024,Chander Vihar,Dr. Kajal,Cleaning,No,Yes,First Visit,Cleaning,480,0,0,0,0,480,0,480,Online Transfer,2024-12
+MLPT00869,Ishita Singh,Female,68,03-12-2024,Tilak Nagar,Dr. Kajal,Braces,No,Yes,First Visit,Braces,19801,0,0,3890,0,19801,0,15911,Cash,2024-12
+MLPT00870,Deepa Sharma,Female,80,03-12-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,UPI,2024-12
+MLPT00871,Uday Singh,Male,54,03-12-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-12
+MLPT00872,Pihu Patel,Female,60,04-12-2024,Tilak Nagar,Dr. Karan,OPD,Yes,No,Referral,OPD,0,0,0,0,0,0,0,0,UPI,2024-12
+MLPT00873,Anika Patel,Female,59,04-12-2024,Vikas Puri,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,140,210,0,210,Cash,2024-12
+MLPT00874,Yash Jain,Male,43,04-12-2024,Vikas Puri,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Card,2024-12
+MLPT00875,Urvi Sharma,Female,19,04-12-2024,Vikas Puri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-12
+MLPT00876,Ankit Kumar,Male,31,04-12-2024,Tilak Nagar,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-12
+MLPT00877,Om Prakash,Male,79,04-12-2024,Janakpuri,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,140,210,0,210,Card,2024-12
+MLPT00878,Aisha Khan,Female,29,04-12-2024,Vikas Puri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,UPI,2024-12
+MLPT00879,Sahil Gupta,Male,17,05-12-2024,Tilak Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-12
+MLPT00880,Arnav Gupta,Male,19,05-12-2024,Tilak Nagar,Dr. Kajal,Braces,No,Yes,Walk-in,Braces,19238,0,0,4950,0,19238,0,14288,Card,2024-12
+MLPT00881,Aditi Sharma,Female,13,05-12-2024,Tilak Nagar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,Card,2024-12
+MLPT00882,Anika Patel,Female,62,05-12-2024,Tilak Nagar,Dr. Kajal,OPD,Yes,No,Walk-in,OPD,0,0,0,0,0,0,0,0,Online Transfer,2024-12
+MLPT00883,Naman Gupta,Male,67,05-12-2024,Uttam Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,UPI,2024-12
+MLPT00884,Eesha Gupta,Female,42,05-12-2024,Chander Vihar,Dr. Karan,OPD,No,No,First Visit,OPD,0,0,200,0,80,120,0,120,Online Transfer,2024-12
+MLPT00885,Aisha Khan,Female,17,06-12-2024,Vikas Puri,Dr. Kajal,Cleaning,Yes,Yes,First Visit,Cleaning,480,0,0,0,100,380,0,380,UPI,2024-12
+MLPT00886,Gagan Bansal,Male,27,06-12-2024,Vikas Puri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Online Transfer,2024-12
+MLPT00887,Siya Verma,Female,42,06-12-2024,Chander Vihar,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,UPI,2024-12
+MLPT00888,Sandeep Gupta,Male,57,06-12-2024,Chander Vihar,Dr. Kajal,OPD,Yes,No,Referral,OPD,0,0,0,0,0,0,0,0,Cash,2024-12
+MLPT00889,Anika Patel,Female,29,06-12-2024,Janakpuri,Dr. Kajal,OPD,No,No,Referral,OPD,0,0,200,0,0,200,0,200,Online Transfer,2024-12
+MLPT00890,Aditi Sharma,Female,14,06-12-2024,Tilak Nagar,Dr. Karan,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Cash,2024-12
+MLPT00891,Hitesh Gupta,Male,13,07-12-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,0,150,0,150,Cash,2024-12
+MLPT00892,Pranav Kumar,Male,69,07-12-2024,Chander Vihar,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Cash,2024-12
+MLPT00893,Uma Sharma,Female,69,07-12-2024,Paschim Vihar,Dr. Kajal,OPD + X-Ray,Yes,Yes,First Visit,OPD + X-Ray,0,150,0,0,60,90,0,90,Card,2024-12
+MLPT00894,Dhruv Jain,Male,29,07-12-2024,Tilak Nagar,Dr. Karan,OPD + X-Ray,No,Yes,First Visit,OPD + X-Ray,0,150,200,0,0,350,0,350,UPI,2024-12
+MLPT00895,Rishi Yadav,Male,67,07-12-2024,Chander Vihar,Dr. Kajal,OPD,Yes,No,First Visit,OPD,0,0,0,0,0,0,0,0,Card,2024-12
+MLPT00896,Uma Sharma,Female,7,07-12-2024,Uttam Nagar,Dr. Kajal,OPD,No,No,First Visit,OPD,0,0,200,0,0,200,0,200,UPI,2024-12
+MLPT00897,Harsh Malik,Male,48,07-12-2024,Dwarka,Dr. Kajal,OPD + X-Ray,No,Yes,Referral,OPD + X-Ray,0,150,200,0,0,350,0,350,Card,2024-12
