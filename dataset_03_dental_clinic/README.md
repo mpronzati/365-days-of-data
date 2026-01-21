@@ -63,7 +63,22 @@ Dimension Tables created:
 - Payment Method
 - Treatment
 
-Measures Created
+Measures Created:
 - Total Discount
 - Total Due
 - Total Lab Charges
+- Total OPD Cost
+- Total Profit
+- Total Revenue
+- Total Treatment Cost
+- Total Visits
+- Total X-ray Cost
+- Average Discount per visit
+- Average profit per visit
+- Average revenue per visit
+- Discount rate %
+- Due rate %
+- Profit Margin %
+- Profit with X-ray
+- Profit without X-ray
+- Revenue Per Patient
