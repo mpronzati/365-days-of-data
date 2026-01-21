@@ -54,3 +54,16 @@ The exploratory analysis revealed several important patterns in clinic operation
 
 ## Day 4 & 5: Python
 Outliers Detection
+
+## Day 6 & 7: Power BI - Dashboard
+Dimension Tables created:
+- Date
+- Dentist
+- Patient
+- Payment Method
+- Treatment
+
+Measures Created
+- Total Discount
+- Total Due
+- Total Lab Charges
