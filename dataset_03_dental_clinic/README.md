@@ -1,6 +1,6 @@
 ## Day 1 Overview
 
-On Day 1, the focus was on understanding the raw patient visit dataset and preparing it for further analysis. The data represents dental clinic visits, including patient details, treatments, costs, and payment information. At this stage, all columns were kept as text to simplify data ingestion and initial exploration.
+On Day 1, the focus was on understanding the raw patient visit dataset and preparing it for further analysis. The data represents dental clinic visits, including patient details, treatments, costs, and payment information. At this stage, all columns were kept as text to simplify data ingestion and initial exploration. The dataset contains 14 columns & 45,000 rows.
 
 ### Columns Description
 
