@@ -22,3 +22,11 @@ Business Questions:
 4. What role does credit history play compared to income?
 5. How accurately can we predict loan approval, and where do errors occur?
 6. How can we improve loan approval rates without materially increasing credit risk?
+
+## Day 2 & 3: SQL Cleaning & EDA
+An SQL cleaning process has been done following the steps:
+- Remove Duplicates -> No duplicates found.
+- Standarize the data -> minimal intervention to standarize data.
+- Null Values or Blank -> No Null or blank values found.
+- Remove any columns -> N/A.
+- Changing Data types -> All columns' data types have changed to improve data quality.
