@@ -18,7 +18,7 @@ This is a binary classification problem.
 The model could help understand which factors most influenced survival.
 
 ## EDA
-# Conclusions after EDA
+Conclusions after EDA:
 - Social economic status level 3 shows a clear high correlation with non-survivors.
 - Passengers coming from the Southhampton port shows high correlation with non-survivers, however this is not a strong signal for the model.
 - "Women & children first." That explains why the Male gender has a high correlation to non-survivors.
@@ -33,3 +33,13 @@ The goal was to keep everything inside the pipeline, avoid data leakage, and mak
 - **Family Features:** `FamilySize` and `IsAlone` flag. Passengers alone may have had lower chances of being saved, while moderate family sizes could improve survival. 
 - **Transformations:** Age binned, Fare log-transformed and quartiled.  
 - **Cleanup:** dropped `PassengerId` and `Ticket`; all inside the pipeline.
+
+## Model
+
+I chose **Logistic Regression** as the model because it gave the **highest accuracy** on this dataset and works well with training data. I got an accuracy rate of 82% with the training dataset.  
+It’s simple, interpretable, and integrates easily into the pipeline without overfitting.
+
+## Final Submission
+
+The final model was used to make predictions on the test set.  
+The Kaggle submission achieved **75% accuracy**, showing that the pipeline and feature engineering were effective and the results are reliable.
