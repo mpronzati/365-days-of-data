@@ -1,4 +1,4 @@
-# Data
+## Train dataset
 - PassengerId - A unique Id for each passenger. Each Id takes the form gggg_pp where gggg indicates a group the passenger is travelling with and pp is their number within the group. People in a group are often family members, but not always.
 - HomePlanet - The planet the passenger departed from, typically their planet of permanent residence.
 - CryoSleep - Indicates whether the passenger elected to be put into suspended animation for the duration of the voyage. Passengers in cryosleep are confined to their cabins.
@@ -9,3 +9,9 @@
 - RoomService, FoodCourt, ShoppingMall, Spa, VRDeck - Amount the passenger has billed at each of the Spaceship Titanic's many luxury amenities.
 - Name - The first and last names of the passenger.
 - Transported - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
+
+## Exploratory Data Analysis
+
+## Feature Engineering
+
+## Final test
