@@ -20,3 +20,8 @@ After the first training run, the model performs very well on class 0, achieving
 - Support(0) = 2389 ≫ Support(1) = 611 → class imbalance driving decision boundary.
 - Weighted F1 = 0.89 > Macro F1 = 0.83 → performance inflated by majority class.
 - Accuracy ≈ 0.90 + Recall(1) = 0.66 → high accuracy masking minority-class under-detection.
+
+The dataset I worked with was a bit imbalanced, so I applied SMOTE to smooth things out. Basically, it helps by generating synthetic samples for the minority class instead of just duplicating data. This makes the classes more evenly represented and gives the model a fairer learning process. The goal wasn’t to force perfection, just to reduce bias toward the majority class. Overall, SMOTE helped the model perform more consistently and make better predictions.
+
+## Final Submission
+For this project, I went with XGBoost as the main model. It’s powerful, fast, and handles complex patterns really well. After training and tuning, the model performed strongly on the challenge. I achieved a final score of 0.93595, which I was pretty happy with. Overall, XGBoost turned out to be a great fit for this dataset
